@@ -1,0 +1,1864 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 128rem;
+}.frame-E36 {
+  width: 100%;
+  height: 141.1rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+.frame-E36 .rectangle-eW8 {
+  width: 127rem;
+  height: 133.3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #f6f7fb;
+}
+.frame-E36 .rectangle-MvL {
+  width: 127rem;
+  height: 133.3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #f6f7fb;
+}
+.frame-E36 .rectangle-78p {
+  width: 14.5rem;
+  height: 3rem;
+  position: absolute;
+  left: 63.5rem;
+  top: 0;
+  background-color: #ffffff;
+}
+.frame-E36 .rectangle-TCg {
+  width: 127rem;
+  height: 9rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #ffffff;
+}
+.frame-E36 .image-CRA {
+  width: 23.6001rem;
+  height: 4.5001rem;
+  position: absolute;
+  left: 6.5rem;
+  top: 2.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-E36 .rectangle-v6G {
+  width: 0.1rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 93.3rem;
+  top: 1.6rem;
+  border: solid 0.1rem rgba(0, 0, 0, 0.1800000072);
+  box-sizing: border-box;
+}
+.frame-E36 .rectangle-CCC {
+  width: 0.1rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 105.4rem;
+  top: 1.6rem;
+  border: solid 0.1rem rgba(0, 0, 0, 0.1800000072);
+  box-sizing: border-box;
+}
+.frame-E36 .image-iRS {
+  width: 1.8rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 107.2rem;
+  top: 1.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-E36 .image-2h2 {
+  width: 1.8rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 110.6rem;
+  top: 1.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-E36 .image-MjJ {
+  width: 1.8rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 114rem;
+  top: 1.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-E36 .rectangle-VqW {
+  width: 0.1rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 117.4rem;
+  top: 1.6rem;
+  border: solid 0.1rem rgba(0, 0, 0, 0.1800000072);
+  box-sizing: border-box;
+}
+.frame-E36 .image-pct {
+  width: 1.3999rem;
+  height: 1.3999rem;
+  position: absolute;
+  left: 119.1rem;
+  top: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-E36 .rectangle-wxQ {
+  width: 127rem;
+  height: 5.1rem;
+  position: absolute;
+  left: 0;
+  top: 9rem;
+  background-color: #2a3a8d;
+}
+.frame-E36 .rectangle-HWU {
+  width: 3.7615rem;
+  height: 0.2667rem;
+  position: absolute;
+  left: 6.5rem;
+  top: 13.8823rem;
+  background-color: #ffffff;
+}
+.frame-E36 .rectangle-pmJ {
+  width: 3.8rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 6.5rem;
+  top: 9rem;
+  border-radius: 0.4rem 0.4rem 0 0;
+}
+.frame-E36 .rectangle-MWL {
+  width: 3.8rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 6.5rem;
+  top: 9rem;
+  border-radius: 0.4rem 0.4rem 0 0;
+}
+.frame-E36 .rectangle-Uax {
+  width: 3.8rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 6.5rem;
+  top: 9rem;
+  background-color: #000000;
+  border-radius: 0.4rem 0.4rem 0 0;
+}
+.frame-E36 .rectangle-zpC {
+  width: 12.4rem;
+  height: 4.7rem;
+  position: absolute;
+  left: 15.1rem;
+  top: 9.1rem;
+  border-radius: 0.4rem 0.4rem 0 0;
+}
+.frame-E36 .rectangle-WGk {
+  width: 12.4rem;
+  height: 4.7rem;
+  position: absolute;
+  left: 15.1rem;
+  top: 9.1rem;
+  border-radius: 0.4rem 0.4rem 0 0;
+}
+.frame-E36 .rectangle-R8p {
+  width: 12.4rem;
+  height: 4.7rem;
+  position: absolute;
+  left: 15.1rem;
+  top: 9.1rem;
+  background-color: #000000;
+  border-radius: 0.4rem 0.4rem 0 0;
+}
+.frame-E36 .rectangle-kB6 {
+  width: 9rem;
+  height: 4.7rem;
+  position: absolute;
+  left: 32.2rem;
+  top: 9.1rem;
+  border-radius: 0.4rem 0.4rem 0 0;
+}
+.frame-E36 .rectangle-Usn {
+  width: 9rem;
+  height: 4.7rem;
+  position: absolute;
+  left: 32.2rem;
+  top: 9.1rem;
+  border-radius: 0.4rem 0.4rem 0 0;
+}
+.frame-E36 .rectangle-DKa {
+  width: 9rem;
+  height: 4.7rem;
+  position: absolute;
+  left: 32.2rem;
+  top: 9.1rem;
+  background-color: #000000;
+  border-radius: 0.4rem 0.4rem 0 0;
+}
+.frame-E36 .rectangle-9U8 {
+  width: 12.1rem;
+  height: 4.7rem;
+  position: absolute;
+  left: 46.1rem;
+  top: 9.1rem;
+  border-radius: 0.4rem 0.4rem 0 0;
+}
+.frame-E36 .rectangle-V2C {
+  width: 12.1rem;
+  height: 4.7rem;
+  position: absolute;
+  left: 46.1rem;
+  top: 9.1rem;
+  border-radius: 0.4rem 0.4rem 0 0;
+}
+.frame-E36 .rectangle-ChJ {
+  width: 12.1rem;
+  height: 4.7rem;
+  position: absolute;
+  left: 46.1rem;
+  top: 9.1rem;
+  background-color: #000000;
+  border-radius: 0.4rem 0.4rem 0 0;
+}
+.frame-E36 .rectangle-XUg {
+  width: 20rem;
+  height: 4.7rem;
+  position: absolute;
+  left: 62.9rem;
+  top: 9.1rem;
+  border-radius: 0.4rem 0.4rem 0 0;
+}
+.frame-E36 .rectangle-3xp {
+  width: 20rem;
+  height: 4.7rem;
+  position: absolute;
+  left: 62.9rem;
+  top: 9.1rem;
+  border-radius: 0.4rem 0.4rem 0 0;
+}
+.frame-E36 .rectangle-z7N {
+  width: 20rem;
+  height: 4.7rem;
+  position: absolute;
+  left: 62.9rem;
+  top: 9.1rem;
+  background-color: #000000;
+  border-radius: 0.4rem 0.4rem 0 0;
+}
+.frame-E36 .rectangle-WrQ {
+  width: 7rem;
+  height: 5.1rem;
+  position: absolute;
+  left: 87.7rem;
+  top: 9rem;
+  border-radius: 0.4rem 0.4rem 0 0;
+}
+.frame-E36 .rectangle-Foz {
+  width: 7rem;
+  height: 5.1rem;
+  position: absolute;
+  left: 87.7rem;
+  top: 9rem;
+  border-radius: 0.4rem 0.4rem 0 0;
+}
+.frame-E36 .rectangle-BxY {
+  width: 7rem;
+  height: 5.1rem;
+  position: absolute;
+  left: 87.7rem;
+  top: 9rem;
+  background-color: #000000;
+  border-radius: 0.4rem 0.4rem 0 0;
+}
+.frame-E36 .rectangle-7bJ {
+  width: 2.9rem;
+  height: 5.1rem;
+  position: absolute;
+  left: 99.5rem;
+  top: 9rem;
+  border-radius: 0.4rem 0.4rem 0 0;
+}
+.frame-E36 .rectangle-3Ux {
+  width: 2.9rem;
+  height: 5.1rem;
+  position: absolute;
+  left: 99.5rem;
+  top: 9rem;
+  border-radius: 0.4rem 0.4rem 0 0;
+}
+.frame-E36 .rectangle-ytQ {
+  width: 2.9rem;
+  height: 5.1rem;
+  position: absolute;
+  left: 99.5rem;
+  top: 9rem;
+  background-color: #000000;
+  border-radius: 0.4rem 0.4rem 0 0;
+}
+.frame-E36 .rectangle-vHr {
+  width: 117rem;
+  height: 62.5rem;
+  position: absolute;
+  left: 5rem;
+  top: 19.4rem;
+  border: solid 0.1rem rgba(42, 58, 141, 0.1800000072);
+  box-sizing: border-box;
+  border-radius: 0.4rem;
+}
+.frame-E36 .rectangle-3NU {
+  width: 48.7rem;
+  height: 62.3rem;
+  position: absolute;
+  left: 5.1rem;
+  top: 19.5rem;
+  background-color: #ffffff;
+  border-radius: 0.4rem;
+}
+.frame-E36 .rectangle-N9r {
+  width: 33.7rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 11.5rem;
+  top: 36rem;
+  border-radius: 0.4rem;
+}
+.frame-E36 .rectangle-JJQ {
+  width: 33.7rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 11.5rem;
+  top: 36rem;
+  background-color: #ffffff;
+  border-radius: 0.4rem;
+}
+.frame-E36 .rectangle-Rtp {
+  width: 0.5rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 11.4667rem;
+  top: 35.8896rem;
+  background-color: rgba(0, 0, 0, 0.3799999952);
+}
+.frame-E36 .rectangle-N3N {
+  width: 0.1rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 11.4rem;
+  top: 35.9563rem;
+  background-color: rgba(0, 0, 0, 0.3799999952);
+}
+.frame-E36 .rectangle-Vdn {
+  width: 0.5rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 11.4667rem;
+  top: 40.2563rem;
+  background-color: rgba(0, 0, 0, 0.3799999952);
+}
+.frame-E36 .rectangle-2tc {
+  width: 0.5rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 11.5rem;
+  top: 36rem;
+  border-radius: 0.5rem 0 0 0.5rem;
+}
+.frame-E36 .rectangle-mbJ {
+  width: 33.2rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 11.9667rem;
+  top: 35.8896rem;
+  background-color: rgba(0, 0, 0, 0.3799999952);
+}
+.frame-E36 .rectangle-hzk {
+  width: 0.1rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 45.1667rem;
+  top: 35.9563rem;
+  background-color: rgba(0, 0, 0, 0.3799999952);
+}
+.frame-E36 .rectangle-eQC {
+  width: 33.2rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 11.9667rem;
+  top: 40.2563rem;
+  background-color: rgba(0, 0, 0, 0.3799999952);
+}
+.frame-E36 .rectangle-aoe {
+  width: 33.2rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 12rem;
+  top: 36rem;
+  border-radius: 0 0.5rem 0.5rem 0;
+}
+.frame-E36 .rectangle-iex {
+  width: 33.7rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 11.5rem;
+  top: 36rem;
+  background-color: #ffffff;
+  border-radius: 0.4rem;
+}
+.frame-E36 .rectangle-TcY {
+  width: 0.5rem;
+  height: 0.2rem;
+  position: absolute;
+  left: 11.4667rem;
+  top: 35.7563rem;
+  background-color: rgba(0, 0, 0, 0.3799999952);
+}
+.frame-E36 .rectangle-nep {
+  width: 0.2rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 11.2667rem;
+  top: 35.9563rem;
+  background-color: rgba(0, 0, 0, 0.3799999952);
+}
+.frame-E36 .rectangle-8Tn {
+  width: 0.5rem;
+  height: 0.2rem;
+  position: absolute;
+  left: 11.4667rem;
+  top: 40.2563rem;
+  background-color: rgba(0, 0, 0, 0.3799999952);
+}
+.frame-E36 .rectangle-46Y {
+  width: 0.5rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 11.5rem;
+  top: 36rem;
+  border-radius: 0.5rem 0 0 0.5rem;
+}
+.frame-E36 .rectangle-PPi {
+  width: 33.2rem;
+  height: 0.2rem;
+  position: absolute;
+  left: 11.9667rem;
+  top: 35.7563rem;
+  background-color: rgba(0, 0, 0, 0.3799999952);
+}
+.frame-E36 .rectangle-igt {
+  width: 0.2rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 45.1667rem;
+  top: 35.9563rem;
+  background-color: rgba(0, 0, 0, 0.3799999952);
+}
+.frame-E36 .rectangle-4Vr {
+  width: 33.2rem;
+  height: 0.2rem;
+  position: absolute;
+  left: 11.9667rem;
+  top: 40.2563rem;
+  background-color: rgba(0, 0, 0, 0.3799999952);
+}
+.frame-E36 .rectangle-c1a {
+  width: 33.2rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 12rem;
+  top: 36rem;
+  border-radius: 0 0.5rem 0.5rem 0;
+}
+.frame-E36 .rectangle-9XJ {
+  width: 33.7rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 11.5rem;
+  top: 44.5rem;
+  box-shadow: 0 0.1rem 0.3rem rgba(0, 0, 0, 0.200000003);
+  background-color: rgba(0, 0, 0, 0.1800000072);
+  border-radius: 0.4rem;
+}
+.frame-E36 .image-48U {
+  width: 1.8rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 30.8rem;
+  top: 44.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-E36 .rectangle-bPJ {
+  width: 33.7rem;
+  height: 1.9rem;
+  position: absolute;
+  left: 11.5rem;
+  top: 50.6rem;
+  border: solid 0.1rem #2a3a8d;
+  box-sizing: border-box;
+  border-radius: 0.4rem;
+}
+.frame-E36 .image-XGx {
+  width: 1.8rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 24.9rem;
+  top: 50.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-E36 .component1-sLp {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 12.3rem;
+  top: 64.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-E36 .rectangle-c3W {
+  width: 4rem;
+  height: 4rem;
+  position: absolute;
+  left: 11.5rem;
+  top: 64.1rem;
+  background-color: #000000;
+}
+.frame-E36 .rectangle-wba {
+  width: 68.2rem;
+  height: 62.3rem;
+  position: absolute;
+  left: 53.8rem;
+  top: 19.5rem;
+  background-color: #fafbfd;
+  border-radius: 0.4rem;
+}
+.frame-E36 .image-5Bz {
+  width: 5.6rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 60.2rem;
+  top: 33.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-E36 .image-1bS {
+  width: 5.6rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 60.2rem;
+  top: 47.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-E36 .image-wzt {
+  width: 5.6rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 60.2rem;
+  top: 57rem;
+  overflow: hidden;
+}
+.frame-E36 .image-wzt .group-19572-tfE {
+  width: 4.1959rem;
+  height: 8.8987rem;
+  position: absolute;
+  left: 0.6414rem;
+  top: 0.0987rem;
+}
+.frame-E36 .image-wzt .group-19572-tfE .group-19146-Cfv {
+  width: 3.7986rem;
+  height: 3.0083rem;
+  position: absolute;
+  left: 0.1005rem;
+  top: 1.1854rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-E36 .image-wzt .group-19572-tfE .group-19148-LGL {
+  width: 2.1956rem;
+  height: 8.8987rem;
+  position: absolute;
+  left: 0.9128rem;
+  top: 0;
+}
+.frame-E36 .image-wzt .group-19572-tfE .group-19148-LGL .rectangle-3785-s1N {
+  width: 2.1956rem;
+  height: 0.6661rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-E36 .image-wzt .group-19572-tfE .group-19148-LGL .item--zrg {
+  width: 0.9rem;
+  height: 8.8rem;
+  position: absolute;
+  left: 0.8141rem;
+  top: 0.0987rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.frame-E36 .image-wzt .group-19572-tfE .group-19148-LGL .path-16413-fC8 {
+  width: 0.2266rem;
+  height: 0.3671rem;
+  position: absolute;
+  left: 0.9873rem;
+  top: 0.6522rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-E36 .image-wzt .group-19572-tfE .group-19148-LGL .id--nXe {
+  width: 0.8rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 0.37rem;
+  top: 0.148rem;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.frame-E36 .image-wzt .group-19572-tfE .group-19148-UvG {
+  width: 1.1923rem;
+  height: 4.9583rem;
+  position: absolute;
+  left: 0;
+  top: 1.0518rem;
+}
+.frame-E36 .image-wzt .group-19572-tfE .group-19148-UvG .rectangle-3785-RKi {
+  width: 1.1923rem;
+  height: 0.3669rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-E36 .image-wzt .group-19572-tfE .group-19148-UvG .item--Zgp {
+  width: 0.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 0.4441rem;
+  top: 0.0583rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.frame-E36 .image-wzt .group-19572-tfE .group-19148-UvG .path-16413-fjr {
+  width: 0.1245rem;
+  height: 0.2017rem;
+  position: absolute;
+  left: 0.5241rem;
+  top: 0.3509rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-E36 .image-wzt .group-19572-tfE .group-19148-UvG .id--QBe {
+  width: 0.5rem;
+  height: 1.5rem;
+  position: absolute;
+  left: 0.1834rem;
+  top: 0.0917rem;
+  font-size: 0.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.frame-E36 .image-wzt .group-19572-tfE .group-19148-7br {
+  width: 1.1923rem;
+  height: 5.4337rem;
+  position: absolute;
+  left: 3.0036rem;
+  top: 1.0518rem;
+}
+.frame-E36 .image-wzt .group-19572-tfE .group-19148-7br .rectangle-3785-EwN {
+  width: 1.1923rem;
+  height: 0.3669rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-E36 .image-wzt .group-19572-tfE .group-19148-7br .item--Brc {
+  width: 0.6rem;
+  height: 5.4rem;
+  position: absolute;
+  left: 0.4255rem;
+  top: 0.0337rem;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.frame-E36 .image-wzt .group-19572-tfE .group-19148-7br .path-16413-u1v {
+  width: 0.1245rem;
+  height: 0.2017rem;
+  position: absolute;
+  left: 0.5413rem;
+  top: 0.3509rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-E36 .image-wzt .group-19572-tfE .group-19148-7br .id--2sE {
+  width: 0.5rem;
+  height: 1.5rem;
+  position: absolute;
+  left: 0.1834rem;
+  top: 0.0917rem;
+  font-size: 0.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.frame-E36 .image-wzt .group-19572-tfE .ellipse-867-wzC {
+  width: 3.3551rem;
+  height: 0.3947rem;
+  position: absolute;
+  left: 0.2714rem;
+  top: 4.8846rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-E36 .image-wzt .rectangle-4140-ggt {
+  width: 5.6rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-E36 .rectangle-dc8 {
+  width: 127rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 0;
+  top: 88.2rem;
+  background-color: #d8dbea;
+}
+.frame-E36 .rectangle-miL {
+  width: 127rem;
+  height: 52.8rem;
+  position: absolute;
+  left: 0;
+  top: 88.3rem;
+  background-color: #1a2038;
+}
+.frame-E36 .image-7nC {
+  width: 3.8rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 14.5rem;
+  top: 124.3rem;
+  border: solid 0.1rem #808080;
+  box-sizing: border-box;
+  border-radius: 0.4rem;
+}
+.frame-E36 .image-eGL {
+  width: 3.7rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 19.1rem;
+  top: 124.3rem;
+  border: solid 0.1rem #808080;
+  box-sizing: border-box;
+  border-radius: 0.4rem;
+}
+.frame-E36 .image-BGG {
+  width: 3.8rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 23.6rem;
+  top: 124.3rem;
+  border: solid 0.1rem #808080;
+  box-sizing: border-box;
+  border-radius: 0.4rem;
+}
+.frame-E36 .image-Jrg {
+  width: 1.4rem;
+  height: 1.4rem;
+  position: absolute;
+  left: 86.4rem;
+  top: 102.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-E36 .rectangle-F1E {
+  width: 117rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 4.5rem;
+  top: 129.6365rem;
+  background-color: rgba(255, 255, 255, 0.6999999881);
+}
+.frame-E36 .image-nG4 {
+  width: 13.7rem;
+  height: 4.2rem;
+  position: absolute;
+  left: 4.5rem;
+  top: 132.2rem;
+  overflow: hidden;
+}
+.frame-E36 .image-nG4 .group-21215-jBJ {
+  width: 14.3503rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.frame-E36 .image-nG4 .group-21215-jBJ .mask-group-138-4zG {
+  margin-right: 1.1999rem;
+  width: 2.5504rem;
+  height: 4.2001rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-E36 .image-nG4 .group-21215-jBJ .group-21210-18p {
+  margin: 0.8rem 0rem 0.3rem 0rem;
+  width: 10.6rem;
+  height: calc(100% - 1.1001rem);
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-E36 .image-nG4 .group-21215-jBJ .group-21210-18p .prefixindiagovin-vFn {
+  width: 8.5rem;
+  height: 1.9rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #d7d7d7;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-E36 .image-nG4 .group-21215-jBJ .group-21210-18p .national-portal-of-india-q7r {
+  width: 10.6rem;
+  height: 1.3rem;
+  position: absolute;
+  left: 0;
+  top: 1.8rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #bebebe;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-E36 .rectangle-XmN {
+  width: 6rem;
+  height: 6rem;
+  position: absolute;
+  left: 119rem;
+  top: 50.5rem;
+  box-shadow: 0 0.5rem 4rem rgba(0, 0, 0, 0.5);
+  background-color: #01578a;
+}
+.frame-E36 .image-dZW {
+  width: 6rem;
+  height: 6rem;
+  position: absolute;
+  left: 119rem;
+  top: 50.5rem;
+  background-color: #01578a;
+}
+.frame-E36 .skip-to-main-content-Nmz {
+  width: 12.8rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 64.3rem;
+  top: 0.8rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #076bcf;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-E36 .call-H8G {
+  width: 7.2rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 80.5rem;
+  top: 2.1rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Material Icons, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-E36 .call-us-adA {
+  width: 4.4rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 85.3rem;
+  top: 1.9rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.01rem;
+  text-transform: capitalize;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-E36 .expandmore-3Fr {
+  width: 19.8rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 81rem;
+  top: 1.9rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Material Icons, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-E36 .language-93z {
+  width: 14.4rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 95rem;
+  top: 2.1rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Material Icons, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-E36 .english-qxQ {
+  width: 4.6rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 97.4rem;
+  top: 1.9rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-E36 .expandmore-8wW {
+  width: 19.8rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 102rem;
+  top: 1.9rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Material Icons, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-E36 .do-not-have-an-account-ShJ {
+  width: 15.3rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 99.3rem;
+  top: 5.3rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: rgba(0, 0, 0, 0.8700000048);
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-E36 .register-jgQ {
+  width: 5.2rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 114.9rem;
+  top: 5.3rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #076bcf;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-E36 .home-SKv {
+  width: 3.8rem;
+  height: 2rem;
+  position: absolute;
+  left: 6.5rem;
+  top: 10.6rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.3600000654;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-E36 .individual-huf-wnU {
+  width: 9.3rem;
+  height: 2rem;
+  position: absolute;
+  left: 15.1rem;
+  top: 10.6rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.3600000654;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-E36 .expandmore-TF2 {
+  width: 13.2rem;
+  height: 1.2rem;
+  position: absolute;
+  left: 25rem;
+  top: 10.8rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1;
+  color: #ffffff;
+  font-family: Material Icons, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-E36 .company-kV2 {
+  width: 6rem;
+  height: 2rem;
+  position: absolute;
+  left: 32.2rem;
+  top: 10.6rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.3600000654;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-E36 .expandmore-rnx {
+  width: 13.2rem;
+  height: 1.2rem;
+  position: absolute;
+  left: 38.9rem;
+  top: 10.8rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1;
+  color: #ffffff;
+  font-family: Material Icons, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-E36 .non-company-NFW {
+  width: 8.9rem;
+  height: 2rem;
+  position: absolute;
+  left: 46.1rem;
+  top: 10.6rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.3600000654;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-E36 .expandmore-Grg {
+  width: 13.2rem;
+  height: 1.2rem;
+  position: absolute;
+  left: 55.7rem;
+  top: 10.8rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1;
+  color: #ffffff;
+  font-family: Material Icons, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-E36 .tax-professionals-others-nKE {
+  width: 16.8rem;
+  height: 2rem;
+  position: absolute;
+  left: 62.9rem;
+  top: 10.6rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.3600000654;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-E36 .expandmore-5p8 {
+  width: 13.2rem;
+  height: 1.2rem;
+  position: absolute;
+  left: 80.5rem;
+  top: 10.8rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1;
+  color: #ffffff;
+  font-family: Material Icons, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-E36 .downloads-bnU {
+  width: 7rem;
+  height: 2rem;
+  position: absolute;
+  left: 87.7rem;
+  top: 10.6rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.3600000654;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-E36 .help-81i {
+  width: 2.9rem;
+  height: 2rem;
+  position: absolute;
+  left: 99.5rem;
+  top: 10.6rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.3600000654;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-E36 .item--qgp {
+  width: 0.7rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 103.8rem;
+  top: 16.5rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.025rem;
+  color: #cd2026;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-E36 .indicates-mandatory-fields-kHz {
+  width: 17.2rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 104.8rem;
+  top: 16.5rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.025rem;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-E36 .login-r68 {
+  width: 7.5rem;
+  height: 4rem;
+  position: absolute;
+  left: 11.5rem;
+  top: 25.8rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.3300000509;
+  letter-spacing: 0.015rem;
+  color: rgba(0, 0, 0, 0.8700000048);
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-E36 .enter-your-user-id-jvc {
+  width: 10.4rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 11.5rem;
+  top: 33rem;
+  font-size: 1.3rem;
+  font-weight: 400;
+  line-height: 1.6153846154;
+  color: rgba(0, 0, 0, 0.8700000048);
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-E36 .item--bbS {
+  width: 0.7rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 23rem;
+  top: 33rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #cd2026;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-E36 .continue-heU {
+  width: 6.4rem;
+  height: 2rem;
+  position: absolute;
+  left: 24.2rem;
+  top: 44.4rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.1900000572;
+  text-transform: capitalize;
+  color: rgba(0, 0, 0, 0.2399999946);
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-E36 .back-cWY {
+  width: 3.3rem;
+  height: 2rem;
+  position: absolute;
+  left: 26.8rem;
+  top: 50.6rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.2693333944;
+  text-transform: capitalize;
+  color: #2a3a8d;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-E36 .other-ways-to-access-your-account-LSY {
+  width: 26.3rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 11.5rem;
+  top: 60.3rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.3125;
+  letter-spacing: 0.044rem;
+  color: rgba(0, 0, 0, 0.8700000048);
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-E36 .net-banking-qeC {
+  width: 7.3rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 15.9rem;
+  top: 65rem;
+  font-size: 1.3rem;
+  font-weight: 400;
+  line-height: 1.6153846154;
+  letter-spacing: 0.025rem;
+  color: rgba(0, 0, 0, 0.8700000048);
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-E36 .know-about-your-9un {
+  width: 15rem;
+  height: 4rem;
+  position: absolute;
+  left: 60.2rem;
+  top: 25.8rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 2;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-E36 .user-id-sat {
+  width: 6.5rem;
+  height: 4rem;
+  position: absolute;
+  left: 76.1rem;
+  top: 25.8rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 2;
+  color: rgba(0, 0, 0, 0.8700000048);
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-E36 .pan-permanent-account-number-Bba {
+  width: 22.5rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 68.2rem;
+  top: 33.1rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.025rem;
+  color: rgba(0, 0, 0, 0.8700000048);
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-E36 .individuals-5S4 {
+  width: 7rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 68.2rem;
+  top: 35.2rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.025rem;
+  color: rgba(0, 0, 0, 0.8700000048);
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-E36 .salaried-employee-senior-citizen-freelancer-nri-ynL {
+  width: 32.6rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 75.7rem;
+  top: 35.2rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.025rem;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-E36 .other-than-individuals-fQG {
+  width: 14.5rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 68.2rem;
+  top: 37.3rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.025rem;
+  color: rgba(0, 0, 0, 0.8700000048);
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-E36 .company-trust-aop-ajp-boi-firm-huf-local-authority-9qE {
+  width: 37.7rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 68.2rem;
+  top: 37.5rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.025rem;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-E36 .aadhaar-number-qi4 {
+  width: 10.2rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 68.2rem;
+  top: 47.1rem;
+  font-size: 1.3rem;
+  font-weight: 400;
+  line-height: 1.6153846154;
+  letter-spacing: 0.025rem;
+  color: rgba(0, 0, 0, 0.8700000048);
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-E36 .individuals-L92 {
+  width: 7rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 68.2rem;
+  top: 49.2rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.025rem;
+  color: rgba(0, 0, 0, 0.8700000048);
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-E36 .salaried-employee-senior-citizen-freelancer-nri-2Xe {
+  width: 32.6rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 75.7rem;
+  top: 49.2rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.025rem;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-E36 .other-than-pan-users-Wxc {
+  width: 12.9rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 68.2rem;
+  top: 57rem;
+  font-size: 1.3rem;
+  font-weight: 400;
+  line-height: 1.6153846154;
+  letter-spacing: 0.025rem;
+  color: rgba(0, 0, 0, 0.8700000048);
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-E36 .ca-external-agency-eri-tax-deductor-tax-collector-tin-20-stakeholders-itdrein-non-residents-not-holding-and-not-required-to-have-pan-Qo6 {
+  width: 45.1rem;
+  height: 6.3rem;
+  position: absolute;
+  left: 68.2rem;
+  top: 59.3rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.025rem;
+  color: rgba(0, 0, 0, 0.8700000048);
+  font-family: Roboto, 'Source Sans Pro';
+}
+.frame-E36 .arca-authorised-representative-chartered-accountant-followed-by-6-digit-number-eBe {
+  width: 45.6rem;
+  height: 4.2rem;
+  position: absolute;
+  left: 68.2rem;
+  top: 65.6rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.025rem;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Roboto, 'Source Sans Pro';
+}
+.frame-E36 .tan-tax-deductor-collector-7L8 {
+  width: 18.8rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 68.2rem;
+  top: 69.6rem;
+  font-size: 1.3rem;
+  font-weight: 400;
+  line-height: 1.6153846154;
+  letter-spacing: 0.025rem;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-E36 .show-more-PoS {
+  width: 7.3rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 68.2rem;
+  top: 73.3rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.025rem;
+  color: #076bcf;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-E36 .about-us-W7N {
+  width: 7.4rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 4.5rem;
+  top: 94.7rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.1666666667;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-E36 .about-the-portal-cRJ {
+  width: 10.2rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 4.5rem;
+  top: 98.7rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: rgba(255, 255, 255, 0.6999999881);
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-E36 .history-of-direct-taxation-K4p {
+  width: 15.8rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 4.5rem;
+  top: 101.6rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: rgba(255, 255, 255, 0.6999999881);
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-E36 .vision-mission-values-R7r {
+  width: 14.3rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 4.5rem;
+  top: 104.5rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: rgba(255, 255, 255, 0.6999999881);
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-E36 .who-we-are-KDE {
+  width: 7.6rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 4.5rem;
+  top: 107.4rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: rgba(255, 255, 255, 0.6999999881);
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-E36 .right-to-information-2dS {
+  width: 12.5rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 4.5rem;
+  top: 110.3rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: rgba(255, 255, 255, 0.6999999881);
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-E36 .organizations-functions-8Ra {
+  width: 16.4rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 4.5rem;
+  top: 113.2rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: rgba(255, 255, 255, 0.6999999881);
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-E36 .media-reports-2mr {
+  width: 9.1rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 4.5rem;
+  top: 116.1rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: rgba(255, 255, 255, 0.6999999881);
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-E36 .e-filing-calendar-2021-YkC {
+  width: 13.9rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 4.5rem;
+  top: 119rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: rgba(255, 255, 255, 0.6999999881);
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-E36 .follow-us-on-Fec {
+  width: 9rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 4.5rem;
+  top: 124.9rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.3125;
+  color: rgba(255, 255, 255, 0.8700000048);
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-E36 .contact-us-9zt {
+  width: 8.9rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 33.8rem;
+  top: 94.7rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.1666666667;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-E36 .helpdesk-numbers-fiL {
+  width: 11.9rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 33.8rem;
+  top: 98.7rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: rgba(255, 255, 255, 0.6999999881);
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-E36 .grievances-AQC {
+  width: 6.9rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 33.8rem;
+  top: 101.6rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: rgba(255, 255, 255, 0.6999999881);
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-E36 .view-grievance-UQt {
+  width: 9.6rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 33.8rem;
+  top: 104.5rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: rgba(255, 255, 255, 0.6999999881);
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-E36 .feedback-aip {
+  width: 6.1rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 33.8rem;
+  top: 107.4rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: rgba(255, 255, 255, 0.6999999881);
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-E36 .help-6SG {
+  width: 2.9rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 33.8rem;
+  top: 110.3rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: rgba(255, 255, 255, 0.6999999881);
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-E36 .using-the-portal-1ZE {
+  width: 12.8rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 53.3rem;
+  top: 94.7rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.1666666667;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-E36 .website-policies-jEL {
+  width: 10.3rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 53.3rem;
+  top: 98.7rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: rgba(255, 255, 255, 0.6999999881);
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-E36 .accessibility-statement-Rsr {
+  width: 14.7rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 53.3rem;
+  top: 101.6rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: rgba(255, 255, 255, 0.6999999881);
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-E36 .site-map-KiL {
+  width: 5.5rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 53.3rem;
+  top: 104.5rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: rgba(255, 255, 255, 0.6999999881);
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-E36 .browser-support-EqJ {
+  width: 10.5rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 53.3rem;
+  top: 107.4rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: rgba(255, 255, 255, 0.6999999881);
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-E36 .related-sites-Z6t {
+  width: 10.5rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 82.5rem;
+  top: 94.7rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.1666666667;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-E36 .income-tax-india-sNU {
+  width: 10.7rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 82.5rem;
+  top: 98.7rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: rgba(255, 255, 255, 0.6999999881);
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-E36 .nsdl-nEY {
+  width: 3.5rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 82.5rem;
+  top: 101.6rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: rgba(255, 255, 255, 0.6999999881);
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-E36 .traces-JTn {
+  width: 5.2rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 82.5rem;
+  top: 104.5rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: rgba(255, 255, 255, 0.6999999881);
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-E36 .last-reviewed-and-updated-on-10-jan-2024-cjN {
+  width: 21.6rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 99.9rem;
+  top: 131.3rem;
+  text-align: right;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.9090909091;
+  color: rgba(255, 255, 255, 0.6999999881);
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-E36 .this-site-is-best-viewed-in-1024-768-resolution-with-latest-version-of-chrome-firefox-safari-and-internet-explorer-7RE {
+  width: 55.7rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 65.8rem;
+  top: 133.8rem;
+  text-align: right;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.9090909091;
+  color: rgba(255, 255, 255, 0.6999999881);
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-E36 .copyright-income-tax-department-ministry-of-finance-government-of-india-all-rights-reserved-xgk {
+  width: 51.8rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 69.7rem;
+  top: 136.3rem;
+  text-align: right;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.75;
+  color: rgba(255, 255, 255, 0.6999999881);
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
