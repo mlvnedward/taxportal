@@ -14,7 +14,44 @@
 </head>
 <body>
 <div class="frame-E36">
+  <!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <link rel="icon" href="/favicon.ico" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#000000" />
+  <title>Frame</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inter%3A400%2C700"/>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A400%2C700"/>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto%3A400"/>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Material+Icons%3A400"/>
+  <link rel="stylesheet" href="./styles/frame.css"/>
+</head>
+<body>
+<div class="frame-E36">
   <!-- Your existing HTML code goes here -->
+
+  <!-- Adding a form for login -->
+  <form action="/login" method="post">
+    <p class="login-r68" onclick="submitForm()">Login</p>
+    <p class="enter-your-user-id-jvc">Enter your User ID</p>
+    <!-- Add other login-related elements here -->
+  </form>
+
+  <!-- Your existing HTML code goes here -->
+
+  <!-- Adding a JavaScript function to submit the form -->
+  <script>
+    function submitForm() {
+      // Add any additional logic or validation before submitting the form
+      document.querySelector('form').submit();
+    }
+  </script>
+</div>
+</body>
+</html>
+
 
   <!-- Adding a form for login -->
   <form action="/login" method="post">
