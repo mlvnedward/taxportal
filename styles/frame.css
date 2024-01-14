@@ -13,732 +13,678 @@ input {
 	border: none;
 }
 body {
-  width: 128rem;
-}.frame-vPN {
+  width: 192rem;
+}.frame-pyA {
   width: 100%;
-  height: 141.1rem;
+  height: 146.1rem;
   position: relative;
   overflow: hidden;
   background-color: #ffffff;
 }
-.frame-vPN .rectangle-xUU {
-  width: 127rem;
-  height: 133.3rem;
+.frame-pyA .rectangle-756 {
+  width: 191rem;
+  height: 138.3rem;
   position: absolute;
   left: 0;
   top: 0;
   background-color: #f6f7fb;
 }
-.frame-vPN .rectangle-sLY {
-  width: 127rem;
-  height: 133.3rem;
+.frame-pyA .rectangle-Qpt {
+  width: 191rem;
+  height: 138.3rem;
   position: absolute;
   left: 0;
   top: 0;
   background-color: #f6f7fb;
 }
-.frame-vPN .rectangle-cZ2 {
+.frame-pyA .rectangle-91n {
   width: 14.5rem;
   height: 3rem;
   position: absolute;
-  left: 63.5rem;
+  left: 95.5rem;
   top: 0;
   background-color: #ffffff;
 }
-.frame-vPN .rectangle-YxU {
-  width: 127rem;
+.frame-pyA .rectangle-fkp {
+  width: 191rem;
   height: 9rem;
   position: absolute;
   left: 0;
   top: 0;
   background-color: #ffffff;
 }
-.frame-vPN .image-tmS {
+.frame-pyA .image-1Zn {
   width: 23.6001rem;
   height: 4.5001rem;
   position: absolute;
-  left: 6.5rem;
+  left: 38.5rem;
   top: 2.2rem;
   object-fit: contain;
   vertical-align: top;
 }
-.frame-vPN .rectangle-DHv {
-  width: 0.1rem;
+.frame-pyA .rectangle-LMA {
+  width: 0.2rem;
   height: 2.6rem;
   position: absolute;
-  left: 93.3rem;
+  left: 125.1rem;
   top: 1.6rem;
   border: solid 0.1rem rgba(0, 0, 0, 0.1800000072);
   box-sizing: border-box;
 }
-.frame-vPN .rectangle-5zL {
-  width: 0.1rem;
+.frame-pyA .rectangle-CXn {
+  width: 0.2rem;
   height: 2.6rem;
   position: absolute;
-  left: 105.4rem;
+  left: 137.3rem;
   top: 1.6rem;
   border: solid 0.1rem rgba(0, 0, 0, 0.1800000072);
   box-sizing: border-box;
 }
-.frame-vPN .image-1NC {
+.frame-pyA .image-KMW {
   width: 1.8rem;
   height: 1.8rem;
   position: absolute;
-  left: 107.2rem;
+  left: 139.1rem;
   top: 1.9rem;
   object-fit: contain;
   vertical-align: top;
 }
-.frame-vPN .image-j3J {
+.frame-pyA .image-dNC {
   width: 1.8rem;
   height: 1.8rem;
   position: absolute;
-  left: 110.6rem;
+  left: 142.5rem;
   top: 1.9rem;
   object-fit: contain;
   vertical-align: top;
 }
-.frame-vPN .image-eg4 {
+.frame-pyA .image-A7E {
   width: 1.8rem;
   height: 1.8rem;
   position: absolute;
-  left: 114rem;
+  left: 145.9rem;
   top: 1.9rem;
   object-fit: contain;
   vertical-align: top;
 }
-.frame-vPN .rectangle-nnG {
-  width: 0.1rem;
+.frame-pyA .rectangle-HxY {
+  width: 0.2rem;
   height: 2.6rem;
   position: absolute;
-  left: 117.4rem;
+  left: 149.3rem;
   top: 1.6rem;
   border: solid 0.1rem rgba(0, 0, 0, 0.1800000072);
   box-sizing: border-box;
 }
-.frame-vPN .image-v7n {
+.frame-pyA .image-D5W {
   width: 1.3999rem;
   height: 1.3999rem;
   position: absolute;
-  left: 119.1rem;
-  top: 2rem;
+  left: 151.1rem;
+  top: 2.1rem;
   object-fit: contain;
   vertical-align: top;
 }
-.frame-vPN .rectangle-3CQ {
-  width: 127rem;
+.frame-pyA .rectangle-Y7n {
+  width: 191rem;
   height: 5.1rem;
   position: absolute;
   left: 0;
   top: 9rem;
   background-color: #2a3a8d;
 }
-.frame-vPN .rectangle-nQt {
+.frame-pyA .rectangle-gDz {
+  width: 3.7625rem;
+  height: 0.3rem;
+  position: absolute;
+  left: 38.5rem;
+  top: 13.85rem;
+  background-color: #ffffff;
+}
+.frame-pyA .rectangle-ctL {
   width: 3.8rem;
   height: 4.8rem;
   position: absolute;
-  left: 6.5rem;
-  top: 9rem;
+  left: 38.5rem;
+  top: 9.1rem;
   border-radius: 0.4rem 0.4rem 0 0;
 }
-.frame-vPN .rectangle-hGx {
+.frame-pyA .rectangle-xBW {
   width: 3.8rem;
   height: 4.8rem;
   position: absolute;
-  left: 6.5rem;
-  top: 9rem;
+  left: 38.5rem;
+  top: 9.1rem;
   border-radius: 0.4rem 0.4rem 0 0;
 }
-.frame-vPN .rectangle-2a8 {
+.frame-pyA .rectangle-gtC {
   width: 12.4rem;
   height: 4.7rem;
   position: absolute;
-  left: 15.1rem;
-  top: 9.1rem;
+  left: 47.1rem;
+  top: 9.2rem;
   border-radius: 0.4rem 0.4rem 0 0;
 }
-.frame-vPN .rectangle-MsJ {
+.frame-pyA .rectangle-QZJ {
   width: 12.4rem;
   height: 4.7rem;
   position: absolute;
-  left: 15.1rem;
-  top: 9.1rem;
+  left: 47.1rem;
+  top: 9.2rem;
   border-radius: 0.4rem 0.4rem 0 0;
 }
-.frame-vPN .rectangle-VTi {
+.frame-pyA .rectangle-916 {
   width: 9rem;
   height: 4.7rem;
   position: absolute;
-  left: 32.2rem;
-  top: 9.1rem;
+  left: 64.2rem;
+  top: 9.2rem;
   border-radius: 0.4rem 0.4rem 0 0;
 }
-.frame-vPN .rectangle-RcG {
+.frame-pyA .rectangle-fEL {
   width: 9rem;
   height: 4.7rem;
   position: absolute;
-  left: 32.2rem;
-  top: 9.1rem;
+  left: 64.2rem;
+  top: 9.2rem;
   border-radius: 0.4rem 0.4rem 0 0;
 }
-.frame-vPN .rectangle-AJx {
+.frame-pyA .rectangle-bNt {
   width: 12.1rem;
   height: 4.7rem;
   position: absolute;
-  left: 46.1rem;
-  top: 9.1rem;
+  left: 78.1rem;
+  top: 9.2rem;
   border-radius: 0.4rem 0.4rem 0 0;
 }
-.frame-vPN .rectangle-hJt {
+.frame-pyA .rectangle-jEC {
   width: 12.1rem;
   height: 4.7rem;
   position: absolute;
-  left: 46.1rem;
-  top: 9.1rem;
+  left: 78.1rem;
+  top: 9.2rem;
   border-radius: 0.4rem 0.4rem 0 0;
 }
-.frame-vPN .rectangle-dTS {
+.frame-pyA .rectangle-Tfz {
   width: 20rem;
   height: 4.7rem;
   position: absolute;
-  left: 62.9rem;
-  top: 9.1rem;
+  left: 94.9rem;
+  top: 9.2rem;
   border-radius: 0.4rem 0.4rem 0 0;
 }
-.frame-vPN .rectangle-knx {
+.frame-pyA .rectangle-zR2 {
   width: 20rem;
   height: 4.7rem;
   position: absolute;
-  left: 62.9rem;
-  top: 9.1rem;
+  left: 94.9rem;
+  top: 9.2rem;
   border-radius: 0.4rem 0.4rem 0 0;
 }
-.frame-vPN .rectangle-gwW {
+.frame-pyA .rectangle-XQx {
   width: 7rem;
   height: 5.1rem;
   position: absolute;
-  left: 87.7rem;
+  left: 119.7rem;
   top: 9rem;
   border-radius: 0.4rem 0.4rem 0 0;
 }
-.frame-vPN .rectangle-2Va {
+.frame-pyA .rectangle-3u6 {
   width: 7rem;
   height: 5.1rem;
   position: absolute;
-  left: 87.7rem;
+  left: 119.7rem;
   top: 9rem;
   border-radius: 0.4rem 0.4rem 0 0;
 }
-.frame-vPN .rectangle-kAg {
+.frame-pyA .rectangle-au2 {
   width: 2.9rem;
   height: 5.1rem;
   position: absolute;
-  left: 99.5rem;
+  left: 131.5rem;
   top: 9rem;
   border-radius: 0.4rem 0.4rem 0 0;
 }
-.frame-vPN .rectangle-U6g {
+.frame-pyA .rectangle-ikL {
   width: 2.9rem;
   height: 5.1rem;
   position: absolute;
-  left: 99.5rem;
+  left: 131.5rem;
   top: 9rem;
   border-radius: 0.4rem 0.4rem 0 0;
 }
-.frame-vPN .rectangle-CYU {
+.frame-pyA .rectangle-ett {
   width: 117rem;
-  height: 62.5rem;
+  height: 67.5rem;
   position: absolute;
-  left: 5rem;
-  top: 19.4rem;
-  border: solid 0.1rem rgba(42, 58, 141, 0.1800000072);
-  box-sizing: border-box;
-  border-radius: 0.4rem;
-}
-.frame-vPN .rectangle-hk8 {
-  width: 48.7rem;
-  height: 62.3rem;
-  position: absolute;
-  left: 10.6rem;
-  top: 22.4rem;
-  background-color: #ffffff;
-  border-radius: 0.4rem;
-}
-.frame-vPN .rectangle-Rw2 {
-  width: 33.7rem;
-  height: 4.3rem;
-  position: absolute;
-  left: 11.5rem;
-  top: 36rem;
-  border-radius: 0.4rem;
-}
-.frame-vPN .rectangle-NLU {
-  width: 33.7rem;
-  height: 4.3rem;
-  position: absolute;
-  left: 11.5rem;
-  top: 36rem;
-  background-color: #ffffff;
-  border-radius: 0.4rem;
-}
-.frame-vPN .rectangle-Vfz {
-  width: 0.5rem;
-  height: 0.1rem;
-  position: absolute;
-  left: 11.4667rem;
-  top: 35.8896rem;
-  background-color: rgba(0, 0, 0, 0.3799999952);
-}
-.frame-vPN .rectangle-dXJ {
-  width: 0.1rem;
-  height: 4.3rem;
-  position: absolute;
-  left: 11.4rem;
-  top: 35.9563rem;
-  background-color: rgba(0, 0, 0, 0.3799999952);
-}
-.frame-vPN .rectangle-y5N {
-  width: 0.5rem;
-  height: 0.1rem;
-  position: absolute;
-  left: 11.4667rem;
-  top: 40.2563rem;
-  background-color: rgba(0, 0, 0, 0.3799999952);
-}
-.frame-vPN .rectangle-WLC {
-  width: 0.5rem;
-  height: 4.3rem;
-  position: absolute;
-  left: 11.5rem;
-  top: 36rem;
-  border-radius: 0.5rem 0 0 0.5rem;
-}
-.frame-vPN .rectangle-eSQ {
-  width: 33.2rem;
-  height: 0.1rem;
-  position: absolute;
-  left: 11.9667rem;
-  top: 35.8896rem;
-  background-color: rgba(0, 0, 0, 0.3799999952);
-}
-.frame-vPN .rectangle-aqr {
-  width: 0.1rem;
-  height: 4.3rem;
-  position: absolute;
-  left: 45.1667rem;
-  top: 35.9563rem;
-  background-color: rgba(0, 0, 0, 0.3799999952);
-}
-.frame-vPN .rectangle-L4L {
-  width: 33.2rem;
-  height: 0.1rem;
-  position: absolute;
-  left: 11.9667rem;
-  top: 40.2563rem;
-  background-color: rgba(0, 0, 0, 0.3799999952);
-}
-.frame-vPN .rectangle-5Gp {
-  width: 33.2rem;
-  height: 4.3rem;
-  position: absolute;
-  left: 12rem;
-  top: 36rem;
-  border-radius: 0 0.5rem 0.5rem 0;
-}
-.frame-vPN .rectangle-D88 {
-  width: 33.7rem;
-  height: 4.3rem;
-  position: absolute;
-  left: 11.5rem;
-  top: 36rem;
-  background-color: #ffffff;
-  border-radius: 0.4rem;
-}
-.frame-vPN .rectangle-9nU {
-  width: 0.5rem;
-  height: 0.2rem;
-  position: absolute;
-  left: 11.4667rem;
-  top: 35.7563rem;
-  background-color: rgba(0, 0, 0, 0.3799999952);
-}
-.frame-vPN .rectangle-5g8 {
-  width: 0.2rem;
-  height: 4.3rem;
-  position: absolute;
-  left: 11.2667rem;
-  top: 35.9563rem;
-  background-color: rgba(0, 0, 0, 0.3799999952);
-}
-.frame-vPN .rectangle-cvx {
-  width: 0.5rem;
-  height: 0.2rem;
-  position: absolute;
-  left: 11.4667rem;
-  top: 40.2563rem;
-  background-color: rgba(0, 0, 0, 0.3799999952);
-}
-.frame-vPN .rectangle-ZbJ {
-  width: 0.5rem;
-  height: 4.3rem;
-  position: absolute;
-  left: 11.5rem;
-  top: 36rem;
-  border-radius: 0.5rem 0 0 0.5rem;
-}
-.frame-vPN .rectangle-hhW {
-  width: 33.2rem;
-  height: 0.2rem;
-  position: absolute;
-  left: 11.9667rem;
-  top: 35.7563rem;
-  background-color: rgba(0, 0, 0, 0.3799999952);
-}
-.frame-vPN .rectangle-RNc {
-  width: 0.2rem;
-  height: 4.3rem;
-  position: absolute;
-  left: 45.1667rem;
-  top: 35.9563rem;
-  background-color: rgba(0, 0, 0, 0.3799999952);
-}
-.frame-vPN .rectangle-A5J {
-  width: 33.2rem;
-  height: 0.2rem;
-  position: absolute;
-  left: 11.9667rem;
-  top: 40.2563rem;
-  background-color: rgba(0, 0, 0, 0.3799999952);
-}
-.frame-vPN .rectangle-u2t {
-  width: 33.2rem;
-  height: 4.3rem;
-  position: absolute;
-  left: 12rem;
-  top: 36rem;
-  border-radius: 0 0.5rem 0.5rem 0;
-}
-.frame-vPN .rectangle-2tC {
-  width: 33.7rem;
-  height: 1.8rem;
-  position: absolute;
-  left: 11.5rem;
-  top: 44.5rem;
+  left: 37rem;
+  top: 15.2rem;
   border: solid 0.1rem #2a3a8d;
   box-sizing: border-box;
-  box-shadow: 0 0.1rem 0.3rem rgba(0, 0, 0, 0.200000003);
-  border-radius: 0.4rem;
-}
-.frame-vPN .image-vig {
-  width: 1.8rem;
-  height: 1.8rem;
-  position: absolute;
-  left: 30.8rem;
-  top: 44.5rem;
-  object-fit: contain;
-  vertical-align: top;
-}
-.frame-vPN .rectangle-fgG {
-  width: 33.7rem;
-  height: 1.9rem;
-  position: absolute;
-  left: 11.5rem;
-  top: 50.6rem;
-  border: solid 0.1rem #2a3a8d;
-  box-sizing: border-box;
-  border-radius: 0.4rem;
-}
-.frame-vPN .image-Moz {
-  width: 1.8rem;
-  height: 1.8rem;
-  position: absolute;
-  left: 24.9rem;
-  top: 50.7rem;
-  object-fit: contain;
-  vertical-align: top;
-}
-.frame-vPN .component1-tov {
-  width: 2.4rem;
-  height: 2.4rem;
-  position: absolute;
-  left: 12.3rem;
-  top: 64.9rem;
-  object-fit: contain;
-  vertical-align: top;
-}
-.frame-vPN .rectangle-RJ4 {
-  width: 4rem;
-  height: 4rem;
-  position: absolute;
-  left: 62rem;
-  top: 64.1rem;
-  filter: blur(0.2rem);
-  background-color: #000000;
-}
-.frame-vPN .rectangle-wnC {
-  width: 68.2rem;
-  height: 62.3rem;
-  position: absolute;
-  left: 53.8rem;
-  top: 19.5rem;
   background-color: #fafbfd;
   border-radius: 0.4rem;
 }
-.frame-vPN .image-svk {
-  width: 5.6rem;
-  height: 5.6rem;
+.frame-pyA .rectangle-Zkx {
+  width: 48.7rem;
+  height: 67.3rem;
   position: absolute;
-  left: 60.2rem;
-  top: 33.1rem;
+  left: 37.1rem;
+  top: 15.3rem;
+  background-color: #ffffff;
+}
+.frame-pyA .rectangle-upp {
+  width: 35.9rem;
+  height: 4.5rem;
+  position: absolute;
+  left: 43.5rem;
+  top: 34.8rem;
+  background-color: #ebf4fd;
+  border-radius: 0.4rem;
+}
+.frame-pyA .rectangle-rVA {
+  width: 1.8rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 43.5rem;
+  top: 40.4rem;
+  border: solid 0.2rem rgba(0, 0, 0, 0.5);
+  box-sizing: border-box;
+  border-radius: 0.2rem;
+}
+.frame-pyA .rectangle-BGY {
+  width: 1.8rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 43.5rem;
+  top: 40.4rem;
+  border-radius: 0.2rem;
+}
+.frame-pyA .frame-7fz {
+  width: 1.215rem;
+  height: 0.8475rem;
+  position: absolute;
+  left: 43.8075rem;
+  top: 40.8725rem;
   object-fit: contain;
   vertical-align: top;
 }
-.frame-vPN .image-1n4 {
-  width: 5.6rem;
-  height: 5.6rem;
+.frame-pyA .rectangle-efv {
+  width: 33.7rem;
+  height: 4.3rem;
   position: absolute;
-  left: 60.2rem;
-  top: 47.1rem;
+  left: 43.5rem;
+  top: 54.6rem;
+  border-radius: 0.4rem;
+}
+.frame-pyA .rectangle-nGL {
+  width: 33.7rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 43.5rem;
+  top: 54.6rem;
+  background-color: #ffffff;
+  border-radius: 0.4rem;
+}
+.frame-pyA .rectangle-Wy2 {
+  width: 0.5rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 43.5rem;
+  top: 54.5rem;
+  background-color: rgba(0, 0, 0, 0.3799999952);
+}
+.frame-pyA .rectangle-fL8 {
+  width: 0.1rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 43.4rem;
+  top: 54.6rem;
+  background-color: rgba(0, 0, 0, 0.3799999952);
+}
+.frame-pyA .rectangle-QHi {
+  width: 0.5rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 43.5rem;
+  top: 58.9rem;
+  background-color: rgba(0, 0, 0, 0.3799999952);
+}
+.frame-pyA .rectangle-k6g {
+  width: 0.5rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 43.5rem;
+  top: 54.6rem;
+  border-radius: 0.5rem 0 0 0.5rem;
+}
+.frame-pyA .rectangle-5ek {
+  width: 33.2rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 44rem;
+  top: 54.5rem;
+  background-color: rgba(0, 0, 0, 0.3799999952);
+}
+.frame-pyA .rectangle-2K6 {
+  width: 0.1rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 77.2rem;
+  top: 54.6rem;
+  background-color: rgba(0, 0, 0, 0.3799999952);
+}
+.frame-pyA .rectangle-Z48 {
+  width: 33.2rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 44rem;
+  top: 58.9rem;
+  background-color: rgba(0, 0, 0, 0.3799999952);
+}
+.frame-pyA .rectangle-t6Q {
+  width: 33.2rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 44rem;
+  top: 54.6rem;
+  border-radius: 0 0.5rem 0.5rem 0;
+}
+.frame-pyA .rectangle-ojA {
+  width: 33.7rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 43.5rem;
+  top: 54.6rem;
+  background-color: #ffffff;
+  border-radius: 0.4rem;
+}
+.frame-pyA .rectangle-jsi {
+  width: 0.5rem;
+  height: 0.2rem;
+  position: absolute;
+  left: 43.5rem;
+  top: 54.4rem;
+  background-color: rgba(0, 0, 0, 0.3799999952);
+}
+.frame-pyA .rectangle-sj2 {
+  width: 0.2rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 43.3rem;
+  top: 54.6rem;
+  background-color: rgba(0, 0, 0, 0.3799999952);
+}
+.frame-pyA .rectangle-Qyr {
+  width: 0.5rem;
+  height: 0.2rem;
+  position: absolute;
+  left: 43.5rem;
+  top: 58.9rem;
+  background-color: rgba(0, 0, 0, 0.3799999952);
+}
+.frame-pyA .rectangle-9Ak {
+  width: 0.5rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 43.5rem;
+  top: 54.6rem;
+  border-radius: 0.5rem 0 0 0.5rem;
+}
+.frame-pyA .rectangle-H24 {
+  width: 33.2rem;
+  height: 0.2rem;
+  position: absolute;
+  left: 44rem;
+  top: 54.4rem;
+  background-color: rgba(0, 0, 0, 0.3799999952);
+}
+.frame-pyA .rectangle-pXn {
+  width: 0.2rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 77.2rem;
+  top: 54.6rem;
+  background-color: rgba(0, 0, 0, 0.3799999952);
+}
+.frame-pyA .rectangle-YTn {
+  width: 33.2rem;
+  height: 0.2rem;
+  position: absolute;
+  left: 44rem;
+  top: 58.9rem;
+  background-color: rgba(0, 0, 0, 0.3799999952);
+}
+.frame-pyA .rectangle-g4C {
+  width: 33.2rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 44rem;
+  top: 54.6rem;
+  border-radius: 0 0.5rem 0.5rem 0;
+}
+.frame-pyA .rectangle-CYL {
+  width: 33.7rem;
+  height: 1.9rem;
+  position: absolute;
+  left: 43.5rem;
+  top: 66.6rem;
+  border: solid 0.1rem #44539b;
+  box-sizing: border-box;
+  box-shadow: 0 0.1rem 0.3rem rgba(0, 0, 0, 0.200000003);
+  background-color: #ffffff;
+  border-radius: 0.4rem;
+}
+.frame-pyA .image-VGY {
+  width: 1.8rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 62.9rem;
+  top: 66.8rem;
   object-fit: contain;
   vertical-align: top;
 }
-.frame-vPN .image-9tG {
-  width: 5.6rem;
-  height: 5.6rem;
+.frame-pyA .rectangle-EE8 {
+  width: 33.7rem;
+  height: 1.9rem;
   position: absolute;
-  left: 60.2rem;
-  top: 57rem;
+  left: 43.5rem;
+  top: 72.8rem;
+  border: solid 0.1rem #2a3a8d;
+  box-sizing: border-box;
+  border-radius: 0.4rem;
+}
+.frame-pyA .image-96C {
+  width: 1.8rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 57rem;
+  top: 72.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-pyA .image-4yr {
+  width: 22.7rem;
+  height: 22.7rem;
+  position: absolute;
+  left: 108.5rem;
+  top: 37.6rem;
   overflow: hidden;
 }
-.frame-vPN .image-9tG .group-19572-6Hi {
-  width: 4.1959rem;
-  height: 8.8987rem;
+.frame-pyA .image-4yr .group-19682-CqA {
+  width: 13.6rem;
+  height: 18.9162rem;
   position: absolute;
-  left: 0.6414rem;
-  top: 0.0987rem;
+  left: 4.5rem;
+  top: 2.5838rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
 }
-.frame-vPN .image-9tG .group-19572-6Hi .group-19146-1vU {
-  width: 3.7986rem;
-  height: 3.0083rem;
-  position: absolute;
-  left: 0.1005rem;
-  top: 1.1854rem;
-  object-fit: contain;
-  vertical-align: top;
+.frame-pyA .image-4yr .group-19682-CqA .group-19546-iYc {
+  margin: 0rem 1.163rem 2.8rem 1.1rem;
+  width: calc(100% - 2.2623rem);
+  height: 14.5163rem;
+  position: relative;
+  flex-shrink: 0;
 }
-.frame-vPN .image-9tG .group-19572-6Hi .group-19148-MDe {
-  width: 2.1956rem;
-  height: 8.8987rem;
-  position: absolute;
-  left: 0.9128rem;
-  top: 0;
-}
-.frame-vPN .image-9tG .group-19572-6Hi .group-19148-MDe .rectangle-3785-sxg {
-  width: 2.1956rem;
-  height: 0.6661rem;
+.frame-pyA .image-4yr .group-19682-CqA .group-19546-iYc .path-10733-1nc {
+  width: 11.3374rem;
+  height: 11.6052rem;
   position: absolute;
   left: 0;
   top: 0;
   object-fit: contain;
   vertical-align: top;
 }
-.frame-vPN .image-9tG .group-19572-6Hi .group-19148-MDe .item--E2Y {
-  width: 0.9rem;
-  height: 8.8rem;
+.frame-pyA .image-4yr .group-19682-CqA .group-19546-iYc .ellipse-762-xSx {
+  width: 6.3574rem;
+  height: 6.3574rem;
   position: absolute;
-  left: 0.8141rem;
-  top: 0.0987rem;
-  font-size: 1.8rem;
-  font-weight: 400;
-  line-height: 1.2125;
-  color: #ffffff;
-  font-family: Inter, 'Source Sans Pro';
-}
-.frame-vPN .image-9tG .group-19572-6Hi .group-19148-MDe .path-16413-tsn {
-  width: 0.2266rem;
-  height: 0.3671rem;
-  position: absolute;
-  left: 0.9873rem;
-  top: 0.6522rem;
+  left: 2.5498rem;
+  top: 6.338rem;
   object-fit: contain;
   vertical-align: top;
 }
-.frame-vPN .image-9tG .group-19572-6Hi .group-19148-MDe .id--2UC {
-  width: 0.8rem;
-  height: 2.7rem;
+.frame-pyA .image-4yr .group-19682-CqA .group-19546-iYc .path-10733-t5i {
+  width: 11.3374rem;
+  height: 9.7123rem;
   position: absolute;
-  left: 0.37rem;
-  top: 0.148rem;
-  font-size: 1.1rem;
-  font-weight: 400;
-  line-height: 1.2125;
-  color: #ffffff;
-  font-family: Inter, 'Source Sans Pro';
-}
-.frame-vPN .image-9tG .group-19572-6Hi .group-19148-iM2 {
-  width: 1.1923rem;
-  height: 4.9583rem;
-  position: absolute;
-  left: 0;
-  top: 1.0518rem;
-}
-.frame-vPN .image-9tG .group-19572-6Hi .group-19148-iM2 .rectangle-3785-eVa {
-  width: 1.1923rem;
-  height: 0.3669rem;
-  position: absolute;
-  left: 0;
-  top: 0;
+  left: 0.0003rem;
+  top: 4.804rem;
   object-fit: contain;
   vertical-align: top;
 }
-.frame-vPN .image-9tG .group-19572-6Hi .group-19148-iM2 .item--nbn {
-  width: 0.5rem;
-  height: 4.9rem;
+.frame-pyA .image-4yr .group-19682-CqA .group-19546-iYc .path-17535-1g8 {
+  width: 6.3661rem;
+  height: 6.3662rem;
   position: absolute;
-  left: 0.4441rem;
-  top: 0.0583rem;
-  font-size: 1rem;
-  font-weight: 400;
-  line-height: 1.2125;
-  color: #ffffff;
-  font-family: Inter, 'Source Sans Pro';
-}
-.frame-vPN .image-9tG .group-19572-6Hi .group-19148-iM2 .path-16413-tui {
-  width: 0.1245rem;
-  height: 0.2017rem;
-  position: absolute;
-  left: 0.5241rem;
-  top: 0.3509rem;
+  left: 2.5636rem;
+  top: 6.9325rem;
   object-fit: contain;
   vertical-align: top;
 }
-.frame-vPN .image-9tG .group-19572-6Hi .group-19148-iM2 .id--dcQ {
-  width: 0.5rem;
-  height: 1.5rem;
+.frame-pyA .image-4yr .group-19682-CqA .group-19546-iYc .path-18302-9GY {
+  width: 9.7641rem;
+  height: 2.2251rem;
   position: absolute;
-  left: 0.1834rem;
-  top: 0.0917rem;
-  font-size: 0.6rem;
-  font-weight: 400;
-  line-height: 1.2125;
-  color: #ffffff;
-  font-family: Inter, 'Source Sans Pro';
-}
-.frame-vPN .image-9tG .group-19572-6Hi .group-19148-YUU {
-  width: 1.1923rem;
-  height: 5.4337rem;
-  position: absolute;
-  left: 3.0036rem;
-  top: 1.0518rem;
-}
-.frame-vPN .image-9tG .group-19572-6Hi .group-19148-YUU .rectangle-3785-GfN {
-  width: 1.1923rem;
-  height: 0.3669rem;
-  position: absolute;
-  left: 0;
-  top: 0;
+  left: 0.7948rem;
+  top: 10.6822rem;
   object-fit: contain;
   vertical-align: top;
 }
-.frame-vPN .image-9tG .group-19572-6Hi .group-19148-YUU .item--pB6 {
-  width: 0.6rem;
-  height: 5.4rem;
+.frame-pyA .image-4yr .group-19682-CqA .group-19546-iYc .item--sCY {
+  width: 8.4rem;
+  height: 3.4rem;
   position: absolute;
-  left: 0.4255rem;
-  top: 0.0337rem;
-  font-size: 1.1rem;
+  left: 1.5362rem;
+  top: 10.2703rem;
+  font-size: 2.8rem;
   font-weight: 400;
   line-height: 1.2125;
-  color: #ffffff;
+  color: #f4f4f4;
   font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
 }
-.frame-vPN .image-9tG .group-19572-6Hi .group-19148-YUU .path-16413-KNk {
-  width: 0.1245rem;
-  height: 0.2017rem;
+.frame-pyA .image-4yr .group-19682-CqA .group-19546-iYc .group-19543-8PN {
+  width: 1.4861rem;
+  height: 0.7973rem;
   position: absolute;
-  left: 0.5413rem;
-  top: 0.3509rem;
+  left: 7.7873rem;
+  top: 4.0079rem;
   object-fit: contain;
   vertical-align: top;
 }
-.frame-vPN .image-9tG .group-19572-6Hi .group-19148-YUU .id--SyA {
-  width: 0.5rem;
-  height: 1.5rem;
+.frame-pyA .image-4yr .group-19682-CqA .group-19546-iYc .group-19545-rKN {
+  width: 3.626rem;
+  height: 3.6242rem;
   position: absolute;
-  left: 0.1834rem;
-  top: 0.0917rem;
-  font-size: 0.6rem;
-  font-weight: 400;
-  line-height: 1.2125;
-  color: #ffffff;
-  font-family: Inter, 'Source Sans Pro';
-}
-.frame-vPN .image-9tG .group-19572-6Hi .ellipse-867-kyr {
-  width: 3.3551rem;
-  height: 0.3947rem;
-  position: absolute;
-  left: 0.2714rem;
-  top: 4.8846rem;
+  left: 3.8391rem;
+  top: 6.3738rem;
   object-fit: contain;
   vertical-align: top;
 }
-.frame-vPN .image-9tG .rectangle-4140-tKN {
-  width: 5.6rem;
-  height: 5.6rem;
+.frame-pyA .image-4yr .group-19682-CqA .group-19546-iYc .path-18303-P4Q {
+  width: 0.5617rem;
+  height: 0.5199rem;
+  position: absolute;
+  left: 8.6159rem;
+  top: 3.6054rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-pyA .image-4yr .group-19682-CqA .group-19546-iYc .path-18304-isN {
+  width: 0.5618rem;
+  height: 0.5183rem;
+  position: absolute;
+  left: 7.9394rem;
+  top: 3.6087rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-pyA .image-4yr .group-19682-CqA .ellipse-862-3ue {
+  width: 13.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-pyA .image-4yr .rectangle-4144-15n {
+  width: 22.7rem;
+  height: 22.7rem;
   position: absolute;
   left: 0;
   top: 0;
   object-fit: contain;
   vertical-align: top;
 }
-.frame-vPN .rectangle-Ee8 {
-  width: 127rem;
+.frame-pyA .rectangle-kZA {
+  width: 191rem;
   height: 0.1rem;
   position: absolute;
   left: 0;
-  top: 88.2rem;
+  top: 88.95rem;
   background-color: #d8dbea;
 }
-.frame-vPN .rectangle-NVS {
-  width: 127rem;
-  height: 52.8rem;
+.frame-pyA .rectangle-Hoz {
+  width: 191rem;
+  height: 57rem;
   position: absolute;
   left: 0;
-  top: 88.3rem;
+  top: 89.1rem;
   background-color: #1a2038;
 }
-.frame-vPN .image-WLk {
+.frame-pyA .image-dcx {
   width: 1.4rem;
   height: 1.4rem;
   position: absolute;
-  left: 86.4rem;
-  top: 102.1rem;
+  left: 118.4rem;
+  top: 102.8rem;
   object-fit: contain;
   vertical-align: top;
 }
-.frame-vPN .rectangle-3ba {
+.frame-pyA .rectangle-mjA {
   width: 117rem;
   height: 0.1rem;
   position: absolute;
-  left: 4.5rem;
-  top: 129.6365rem;
+  left: 36.5rem;
+  top: 130.4188rem;
   background-color: rgba(255, 255, 255, 0.6999999881);
 }
-.frame-vPN .image-n3N {
+.frame-pyA .image-7HE {
   width: 13.7rem;
   height: 4.2rem;
   position: absolute;
-  left: 4.5rem;
-  top: 132.2rem;
+  left: 36.5rem;
+  top: 133rem;
   overflow: hidden;
 }
-.frame-vPN .image-n3N .group-21215-Wzx {
+.frame-pyA .image-7HE .group-21215-qyv {
   width: 14.3503rem;
   height: 100%;
   display: flex;
   align-items: center;
 }
-.frame-vPN .image-n3N .group-21215-Wzx .mask-group-138-TQQ {
+.frame-pyA .image-7HE .group-21215-qyv .mask-group-138-awW {
   margin-right: 1.1999rem;
   width: 2.5504rem;
   height: 4.2001rem;
@@ -746,14 +692,14 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-.frame-vPN .image-n3N .group-21215-Wzx .group-21210-z9S {
+.frame-pyA .image-7HE .group-21215-qyv .group-21210-uD6 {
   margin: 0.8rem 0rem 0.3rem 0rem;
   width: 10.6rem;
   height: calc(100% - 1.1001rem);
   position: relative;
   flex-shrink: 0;
 }
-.frame-vPN .image-n3N .group-21215-Wzx .group-21210-z9S .prefixindiagovin-Jfv {
+.frame-pyA .image-7HE .group-21215-qyv .group-21210-uD6 .prefixindiagovin-pL4 {
   width: 8.5rem;
   height: 1.9rem;
   position: absolute;
@@ -766,7 +712,7 @@ body {
   font-family: Inter, 'Source Sans Pro';
   white-space: nowrap;
 }
-.frame-vPN .image-n3N .group-21215-Wzx .group-21210-z9S .national-portal-of-india-Dnt {
+.frame-pyA .image-7HE .group-21215-qyv .group-21210-uD6 .national-portal-of-india-XVN {
   width: 10.6rem;
   height: 1.3rem;
   position: absolute;
@@ -779,11 +725,11 @@ body {
   font-family: Inter, 'Source Sans Pro';
   white-space: nowrap;
 }
-.frame-vPN .call-KL8 {
+.frame-pyA .call-2BE {
   width: 7.2rem;
   height: 1.8rem;
   position: absolute;
-  left: 80.5rem;
+  left: 112.3rem;
   top: 2.1rem;
   text-align: center;
   font-size: 1.8rem;
@@ -793,12 +739,12 @@ body {
   font-family: Material Icons, 'Source Sans Pro';
   white-space: nowrap;
 }
-.frame-vPN .call-us-pGt {
+.frame-pyA .call-us-WcC {
   width: 4.4rem;
   height: 2.1rem;
   position: absolute;
-  left: 85.3rem;
-  top: 1.9rem;
+  left: 117.1rem;
+  top: 2rem;
   text-align: center;
   font-size: 1.4rem;
   font-weight: 400;
@@ -809,12 +755,12 @@ body {
   font-family: Roboto, 'Source Sans Pro';
   white-space: nowrap;
 }
-.frame-vPN .expandmore-VP2 {
+.frame-pyA .expandmore-mo2 {
   width: 19.8rem;
   height: 1.8rem;
   position: absolute;
-  left: 81rem;
-  top: 1.9rem;
+  left: 112.8rem;
+  top: 2rem;
   text-align: center;
   font-size: 1.8rem;
   font-weight: 400;
@@ -823,12 +769,12 @@ body {
   font-family: Material Icons, 'Source Sans Pro';
   white-space: nowrap;
 }
-.frame-vPN .language-yoz {
+.frame-pyA .language-sr4 {
   width: 14.4rem;
   height: 1.8rem;
   position: absolute;
-  left: 95rem;
-  top: 2.1rem;
+  left: 126.9rem;
+  top: 2rem;
   font-size: 1.8rem;
   font-weight: 400;
   line-height: 1;
@@ -836,11 +782,11 @@ body {
   font-family: Material Icons, 'Source Sans Pro';
   white-space: nowrap;
 }
-.frame-vPN .english-HZn {
+.frame-pyA .english-akU {
   width: 4.6rem;
   height: 2.1rem;
   position: absolute;
-  left: 97.4rem;
+  left: 129.3rem;
   top: 1.9rem;
   font-size: 1.4rem;
   font-weight: 400;
@@ -849,11 +795,11 @@ body {
   font-family: Roboto, 'Source Sans Pro';
   white-space: nowrap;
 }
-.frame-vPN .expandmore-zyz {
+.frame-pyA .expandmore-6D2 {
   width: 19.8rem;
   height: 1.8rem;
   position: absolute;
-  left: 102rem;
+  left: 133.9rem;
   top: 1.9rem;
   font-size: 1.8rem;
   font-weight: 400;
@@ -862,11 +808,11 @@ body {
   font-family: Material Icons, 'Source Sans Pro';
   white-space: nowrap;
 }
-.frame-vPN .do-not-have-an-account-if6 {
+.frame-pyA .do-not-have-an-account-bfa {
   width: 15.3rem;
   height: 2.1rem;
   position: absolute;
-  left: 99.3rem;
+  left: 131.3rem;
   top: 5.3rem;
   font-size: 1.4rem;
   font-weight: 400;
@@ -875,11 +821,11 @@ body {
   font-family: Roboto, 'Source Sans Pro';
   white-space: nowrap;
 }
-.frame-vPN .register-pTE {
+.frame-pyA .register-6sE {
   width: 5.2rem;
   height: 2.1rem;
   position: absolute;
-  left: 114.9rem;
+  left: 146.9rem;
   top: 5.3rem;
   font-size: 1.4rem;
   font-weight: 400;
@@ -888,11 +834,11 @@ body {
   font-family: Roboto, 'Source Sans Pro';
   white-space: nowrap;
 }
-.frame-vPN .home-LwN {
+.frame-pyA .home-cqa {
   width: 3.8rem;
   height: 2rem;
   position: absolute;
-  left: 6.5rem;
+  left: 38.5rem;
   top: 10.6rem;
   font-size: 1.4rem;
   font-weight: 400;
@@ -902,11 +848,11 @@ body {
   font-family: Roboto, 'Source Sans Pro';
   white-space: nowrap;
 }
-.frame-vPN .individual-huf-FoS {
+.frame-pyA .individual-huf-8J8 {
   width: 9.3rem;
   height: 2rem;
   position: absolute;
-  left: 15.1rem;
+  left: 47.1rem;
   top: 10.6rem;
   font-size: 1.4rem;
   font-weight: 400;
@@ -915,12 +861,12 @@ body {
   font-family: Roboto, 'Source Sans Pro';
   white-space: nowrap;
 }
-.frame-vPN .expandmore-mmn {
+.frame-pyA .expandmore-Erx {
   width: 13.2rem;
   height: 1.2rem;
   position: absolute;
-  left: 25rem;
-  top: 10.8rem;
+  left: 57rem;
+  top: 10.9rem;
   font-size: 1.2rem;
   font-weight: 400;
   line-height: 1;
@@ -928,11 +874,11 @@ body {
   font-family: Material Icons, 'Source Sans Pro';
   white-space: nowrap;
 }
-.frame-vPN .company-Hk8 {
+.frame-pyA .company-9yv {
   width: 6rem;
   height: 2rem;
   position: absolute;
-  left: 32.2rem;
+  left: 64.2rem;
   top: 10.6rem;
   font-size: 1.4rem;
   font-weight: 400;
@@ -941,12 +887,12 @@ body {
   font-family: Roboto, 'Source Sans Pro';
   white-space: nowrap;
 }
-.frame-vPN .expandmore-DNt {
+.frame-pyA .expandmore-fxG {
   width: 13.2rem;
   height: 1.2rem;
   position: absolute;
-  left: 38.9rem;
-  top: 10.8rem;
+  left: 70.9rem;
+  top: 10.9rem;
   font-size: 1.2rem;
   font-weight: 400;
   line-height: 1;
@@ -954,11 +900,11 @@ body {
   font-family: Material Icons, 'Source Sans Pro';
   white-space: nowrap;
 }
-.frame-vPN .non-company-w3z {
+.frame-pyA .non-company-CBW {
   width: 8.9rem;
   height: 2rem;
   position: absolute;
-  left: 46.1rem;
+  left: 78.1rem;
   top: 10.6rem;
   font-size: 1.4rem;
   font-weight: 400;
@@ -967,12 +913,12 @@ body {
   font-family: Roboto, 'Source Sans Pro';
   white-space: nowrap;
 }
-.frame-vPN .expandmore-dxQ {
+.frame-pyA .expandmore-iQk {
   width: 13.2rem;
   height: 1.2rem;
   position: absolute;
-  left: 55.7rem;
-  top: 10.8rem;
+  left: 87.7rem;
+  top: 10.9rem;
   font-size: 1.2rem;
   font-weight: 400;
   line-height: 1;
@@ -980,11 +926,11 @@ body {
   font-family: Material Icons, 'Source Sans Pro';
   white-space: nowrap;
 }
-.frame-vPN .tax-professionals-others-ZbA {
+.frame-pyA .tax-professionals-others-Ra4 {
   width: 16.8rem;
   height: 2rem;
   position: absolute;
-  left: 62.9rem;
+  left: 94.9rem;
   top: 10.6rem;
   font-size: 1.4rem;
   font-weight: 400;
@@ -993,12 +939,12 @@ body {
   font-family: Roboto, 'Source Sans Pro';
   white-space: nowrap;
 }
-.frame-vPN .expandmore-3mE {
+.frame-pyA .expandmore-j4x {
   width: 13.2rem;
   height: 1.2rem;
   position: absolute;
-  left: 80.5rem;
-  top: 10.8rem;
+  left: 112.5rem;
+  top: 10.9rem;
   font-size: 1.2rem;
   font-weight: 400;
   line-height: 1;
@@ -1006,11 +952,11 @@ body {
   font-family: Material Icons, 'Source Sans Pro';
   white-space: nowrap;
 }
-.frame-vPN .downloads-Yxt {
+.frame-pyA .downloads-EnQ {
   width: 7rem;
   height: 2rem;
   position: absolute;
-  left: 87.7rem;
+  left: 119.7rem;
   top: 10.6rem;
   font-size: 1.4rem;
   font-weight: 400;
@@ -1020,11 +966,11 @@ body {
   font-family: Roboto, 'Source Sans Pro';
   white-space: nowrap;
 }
-.frame-vPN .help-sEU {
+.frame-pyA .help-9eU {
   width: 2.9rem;
   height: 2rem;
   position: absolute;
-  left: 99.5rem;
+  left: 131.5rem;
   top: 10.6rem;
   font-size: 1.4rem;
   font-weight: 400;
@@ -1034,40 +980,12 @@ body {
   font-family: Roboto, 'Source Sans Pro';
   white-space: nowrap;
 }
-.frame-vPN .item--aua {
-  width: 0.7rem;
-  height: 2.1rem;
-  position: absolute;
-  left: 103.8rem;
-  top: 16.5rem;
-  font-size: 1.4rem;
-  font-weight: 400;
-  line-height: 1.5;
-  letter-spacing: 0.025rem;
-  color: #cd2026;
-  font-family: Roboto, 'Source Sans Pro';
-  white-space: nowrap;
-}
-.frame-vPN .indicates-mandatory-fields-HZ6 {
-  width: 17.2rem;
-  height: 2.1rem;
-  position: absolute;
-  left: 104.8rem;
-  top: 16.5rem;
-  font-size: 1.4rem;
-  font-weight: 400;
-  line-height: 1.5;
-  letter-spacing: 0.025rem;
-  color: rgba(0, 0, 0, 0.6000000238);
-  font-family: Roboto, 'Source Sans Pro';
-  white-space: nowrap;
-}
-.frame-vPN .login-zCc {
+.frame-pyA .login-fsi {
   width: 7.5rem;
   height: 4rem;
   position: absolute;
-  left: 11.5rem;
-  top: 25.8rem;
+  left: 53.7rem;
+  top: 21.7rem;
   font-size: 3rem;
   font-weight: 400;
   line-height: 1.3300000509;
@@ -1076,38 +994,164 @@ body {
   font-family: Roboto, 'Source Sans Pro';
   white-space: nowrap;
 }
-.frame-vPN .enter-your-user-id-hMv {
-  width: 10.4rem;
+.frame-pyA .pan-z9J {
+  width: 2.8rem;
   height: 2.1rem;
   position: absolute;
-  left: 11.5rem;
-  top: 33rem;
-  font-size: 1.3rem;
+  left: 53.7rem;
+  top: 27.3rem;
+  font-size: 1.4rem;
   font-weight: 400;
-  line-height: 1.6153846154;
+  line-height: 1.5;
+  letter-spacing: 0.025rem;
   color: rgba(0, 0, 0, 0.8700000048);
   font-family: Roboto, 'Source Sans Pro';
   white-space: nowrap;
 }
-.frame-vPN .item--QGL {
-  width: 0.7rem;
+.frame-pyA .item--GsW {
+  width: 0.4rem;
   height: 2.1rem;
   position: absolute;
-  left: 23rem;
-  top: 33rem;
+  left: 56.5rem;
+  top: 27.3rem;
   font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.025rem;
+  color: rgba(0, 0, 0, 0.8700000048);
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-pyA .acbpe7389k-Ahz {
+  width: 8.7rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 57.6rem;
+  top: 27.3rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.025rem;
+  color: rgba(0, 0, 0, 0.8700000048);
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-pyA .secure-access-message-fPr {
+  width: 15.8rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 43.5rem;
+  top: 31.9rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.025rem;
+  color: rgba(0, 0, 0, 0.8700000048);
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-pyA .please-file-Zk8 {
+  width: 6.6rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 44.7rem;
+  top: 36rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.025rem;
+  color: rgba(0, 0, 0, 0.8700000048);
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-pyA .please-confirm-your-secure-access-message-displayed-above-GuS {
+  width: 28.8rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 46.1rem;
+  top: 40.4rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.7142857143;
+  letter-spacing: 0.025rem;
+  color: rgba(0, 0, 0, 0.8700000048);
+  font-family: Roboto, 'Source Sans Pro';
+}
+.frame-pyA .item--mLQ {
+  width: 0.7rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 56.9rem;
+  top: 42.5rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.7142857143;
+  letter-spacing: 0.025rem;
+  color: #cd2026;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-pyA .enter-password-for-your-e-filing-account-fgg {
+  width: 24.3rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 43.5rem;
+  top: 46.9rem;
+  font-size: 1.3rem;
+  font-weight: 400;
+  line-height: 1.6153846154;
+  letter-spacing: 0.025rem;
+  color: rgba(0, 0, 0, 0.8700000048);
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-pyA .password-M3i {
+  width: 6.4rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 43.5rem;
+  top: 51.6rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.025rem;
+  color: rgba(0, 0, 0, 0.8700000048);
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-pyA .item--3hE {
+  width: 0.7rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 50.3rem;
+  top: 51.4rem;
+  font-size: 1.6rem;
   font-weight: 400;
   line-height: 1.5;
   color: #cd2026;
   font-family: Roboto, 'Source Sans Pro';
   white-space: nowrap;
 }
-.frame-vPN .continue-Ku6 {
+.frame-pyA .forgot-password-Ytt {
+  width: 11.7rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 43.5rem;
+  top: 59.8rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.025rem;
+  color: #076bcf;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-pyA .continue-eh2 {
   width: 6.4rem;
   height: 2rem;
   position: absolute;
-  left: 24.2rem;
-  top: 44.4rem;
+  left: 56rem;
+  top: 66.6rem;
   text-align: center;
   font-size: 1.6rem;
   font-weight: 400;
@@ -1117,12 +1161,12 @@ body {
   font-family: Roboto, 'Source Sans Pro';
   white-space: nowrap;
 }
-.frame-vPN .back-Rx8 {
+.frame-pyA .back-xhi {
   width: 3.3rem;
   height: 2rem;
   position: absolute;
-  left: 26.8rem;
-  top: 50.6rem;
+  left: 58.9rem;
+  top: 72.8rem;
   text-align: center;
   font-size: 1.5rem;
   font-weight: 400;
@@ -1132,232 +1176,12 @@ body {
   font-family: Roboto, 'Source Sans Pro';
   white-space: nowrap;
 }
-.frame-vPN .other-ways-to-access-your-account-hek {
-  width: 26.3rem;
-  height: 2.1rem;
-  position: absolute;
-  left: 11.5rem;
-  top: 60.3rem;
-  font-size: 1.6rem;
-  font-weight: 400;
-  line-height: 1.3125;
-  letter-spacing: 0.044rem;
-  color: rgba(0, 0, 0, 0.8700000048);
-  font-family: Roboto, 'Source Sans Pro';
-  white-space: nowrap;
-}
-.frame-vPN .net-banking-Lhi {
-  width: 7.3rem;
-  height: 2.1rem;
-  position: absolute;
-  left: 15.9rem;
-  top: 65rem;
-  font-size: 1.3rem;
-  font-weight: 400;
-  line-height: 1.6153846154;
-  letter-spacing: 0.025rem;
-  color: rgba(0, 0, 0, 0.8700000048);
-  font-family: Roboto, 'Source Sans Pro';
-  white-space: nowrap;
-}
-.frame-vPN .know-about-your-dgp {
-  width: 15rem;
-  height: 4rem;
-  position: absolute;
-  left: 60.2rem;
-  top: 25.8rem;
-  font-size: 2rem;
-  font-weight: 400;
-  line-height: 2;
-  color: rgba(0, 0, 0, 0.6000000238);
-  font-family: Roboto, 'Source Sans Pro';
-  white-space: nowrap;
-}
-.frame-vPN .user-id-Y36 {
-  width: 6.5rem;
-  height: 4rem;
-  position: absolute;
-  left: 76.1rem;
-  top: 25.8rem;
-  font-size: 2rem;
-  font-weight: 400;
-  line-height: 2;
-  color: rgba(0, 0, 0, 0.8700000048);
-  font-family: Roboto, 'Source Sans Pro';
-  white-space: nowrap;
-}
-.frame-vPN .pan-permanent-account-number-ebv {
-  width: 22.5rem;
-  height: 2.1rem;
-  position: absolute;
-  left: 68.2rem;
-  top: 33.1rem;
-  font-size: 1.4rem;
-  font-weight: 400;
-  line-height: 1.5;
-  letter-spacing: 0.025rem;
-  color: rgba(0, 0, 0, 0.8700000048);
-  font-family: Roboto, 'Source Sans Pro';
-  white-space: nowrap;
-}
-.frame-vPN .individuals-YSQ {
-  width: 7rem;
-  height: 2.1rem;
-  position: absolute;
-  left: 68.2rem;
-  top: 35.2rem;
-  font-size: 1.4rem;
-  font-weight: 400;
-  line-height: 1.5;
-  letter-spacing: 0.025rem;
-  color: rgba(0, 0, 0, 0.8700000048);
-  font-family: Roboto, 'Source Sans Pro';
-  white-space: nowrap;
-}
-.frame-vPN .salaried-employee-senior-citizen-freelancer-nri-TZN {
-  width: 32.6rem;
-  height: 2.1rem;
-  position: absolute;
-  left: 75.7rem;
-  top: 35.2rem;
-  font-size: 1.4rem;
-  font-weight: 400;
-  line-height: 1.5;
-  letter-spacing: 0.025rem;
-  color: rgba(0, 0, 0, 0.6000000238);
-  font-family: Roboto, 'Source Sans Pro';
-  white-space: nowrap;
-}
-.frame-vPN .other-than-individuals-k2g {
-  width: 14.5rem;
-  height: 2.1rem;
-  position: absolute;
-  left: 68.2rem;
-  top: 37.3rem;
-  font-size: 1.4rem;
-  font-weight: 400;
-  line-height: 1.5;
-  letter-spacing: 0.025rem;
-  color: rgba(0, 0, 0, 0.8700000048);
-  font-family: Roboto, 'Source Sans Pro';
-  white-space: nowrap;
-}
-.frame-vPN .aadhaar-number-3Gg {
-  width: 10.2rem;
-  height: 2.1rem;
-  position: absolute;
-  left: 68.2rem;
-  top: 47.1rem;
-  font-size: 1.3rem;
-  font-weight: 400;
-  line-height: 1.6153846154;
-  letter-spacing: 0.025rem;
-  color: rgba(0, 0, 0, 0.8700000048);
-  font-family: Roboto, 'Source Sans Pro';
-  white-space: nowrap;
-}
-.frame-vPN .individuals-9Ki {
-  width: 7rem;
-  height: 2.1rem;
-  position: absolute;
-  left: 68.2rem;
-  top: 49.2rem;
-  font-size: 1.4rem;
-  font-weight: 400;
-  line-height: 1.5;
-  letter-spacing: 0.025rem;
-  color: rgba(0, 0, 0, 0.8700000048);
-  font-family: Roboto, 'Source Sans Pro';
-  white-space: nowrap;
-}
-.frame-vPN .salaried-employee-senior-citizen-freelancer-nri-F7r {
-  width: 32.6rem;
-  height: 2.1rem;
-  position: absolute;
-  left: 75.7rem;
-  top: 49.2rem;
-  font-size: 1.4rem;
-  font-weight: 400;
-  line-height: 1.5;
-  letter-spacing: 0.025rem;
-  color: rgba(0, 0, 0, 0.6000000238);
-  font-family: Roboto, 'Source Sans Pro';
-  white-space: nowrap;
-}
-.frame-vPN .other-than-pan-users-Xr4 {
-  width: 12.9rem;
-  height: 2.1rem;
-  position: absolute;
-  left: 68.2rem;
-  top: 57rem;
-  font-size: 1.3rem;
-  font-weight: 400;
-  line-height: 1.6153846154;
-  letter-spacing: 0.025rem;
-  color: rgba(0, 0, 0, 0.8700000048);
-  font-family: Roboto, 'Source Sans Pro';
-  white-space: nowrap;
-}
-.frame-vPN .ca-external-agency-eri-tax-deductor-tax-collector-tin-20-stakeholders-itdrein-non-residents-not-holding-and-not-required-to-have-pan-SCL {
-  width: 45.1rem;
-  height: 6.3rem;
-  position: absolute;
-  left: 68.2rem;
-  top: 59.3rem;
-  font-size: 1.4rem;
-  font-weight: 400;
-  line-height: 1.5;
-  letter-spacing: 0.025rem;
-  color: rgba(0, 0, 0, 0.8700000048);
-  font-family: Roboto, 'Source Sans Pro';
-}
-.frame-vPN .arca-authorised-representative-chartered-accountant-followed-by-6-digit-number-sYY {
-  width: 45.6rem;
-  height: 4.2rem;
-  position: absolute;
-  left: 68.2rem;
-  top: 65.6rem;
-  font-size: 1.4rem;
-  font-weight: 400;
-  line-height: 1.5;
-  letter-spacing: 0.025rem;
-  color: rgba(0, 0, 0, 0.6000000238);
-  font-family: Roboto, 'Source Sans Pro';
-}
-.frame-vPN .tan-tax-deductor-collector-8jN {
-  width: 18.8rem;
-  height: 2.1rem;
-  position: absolute;
-  left: 68.2rem;
-  top: 69.6rem;
-  font-size: 1.3rem;
-  font-weight: 400;
-  line-height: 1.6153846154;
-  letter-spacing: 0.025rem;
-  color: rgba(0, 0, 0, 0.6000000238);
-  font-family: Roboto, 'Source Sans Pro';
-  white-space: nowrap;
-}
-.frame-vPN .show-more-RiU {
-  width: 7.3rem;
-  height: 2.1rem;
-  position: absolute;
-  left: 68.2rem;
-  top: 73.3rem;
-  font-size: 1.4rem;
-  font-weight: 400;
-  line-height: 1.5;
-  letter-spacing: 0.025rem;
-  color: #076bcf;
-  font-family: Roboto, 'Source Sans Pro';
-  white-space: nowrap;
-}
-.frame-vPN .about-us-Y2Q {
+.frame-pyA .about-us-spg {
   width: 7.4rem;
   height: 2.1rem;
   position: absolute;
-  left: 4.5rem;
-  top: 94.7rem;
+  left: 36.5rem;
+  top: 95.5rem;
   font-size: 1.8rem;
   font-weight: 400;
   line-height: 1.1666666667;
@@ -1365,12 +1189,12 @@ body {
   font-family: Roboto, 'Source Sans Pro';
   white-space: nowrap;
 }
-.frame-vPN .about-the-portal-s4g {
+.frame-pyA .about-the-portal-zeQ {
   width: 10.2rem;
   height: 2.1rem;
   position: absolute;
-  left: 4.5rem;
-  top: 98.7rem;
+  left: 36.5rem;
+  top: 99.5rem;
   font-size: 1.4rem;
   font-weight: 400;
   line-height: 1.5;
@@ -1378,12 +1202,12 @@ body {
   font-family: Roboto, 'Source Sans Pro';
   white-space: nowrap;
 }
-.frame-vPN .history-of-direct-taxation-yNc {
+.frame-pyA .history-of-direct-taxation-J9J {
   width: 15.8rem;
   height: 2.1rem;
   position: absolute;
-  left: 4.5rem;
-  top: 101.6rem;
+  left: 36.5rem;
+  top: 102.4rem;
   font-size: 1.4rem;
   font-weight: 400;
   line-height: 1.5;
@@ -1391,12 +1215,12 @@ body {
   font-family: Roboto, 'Source Sans Pro';
   white-space: nowrap;
 }
-.frame-vPN .vision-mission-values-UqA {
+.frame-pyA .vision-mission-values-CkU {
   width: 14.3rem;
   height: 2.1rem;
   position: absolute;
-  left: 4.5rem;
-  top: 104.5rem;
+  left: 36.5rem;
+  top: 105.3rem;
   font-size: 1.4rem;
   font-weight: 400;
   line-height: 1.5;
@@ -1404,12 +1228,12 @@ body {
   font-family: Roboto, 'Source Sans Pro';
   white-space: nowrap;
 }
-.frame-vPN .who-we-are-PSL {
+.frame-pyA .who-we-are-7Me {
   width: 7.6rem;
   height: 2.1rem;
   position: absolute;
-  left: 4.5rem;
-  top: 107.4rem;
+  left: 36.5rem;
+  top: 108.2rem;
   font-size: 1.4rem;
   font-weight: 400;
   line-height: 1.5;
@@ -1417,12 +1241,12 @@ body {
   font-family: Roboto, 'Source Sans Pro';
   white-space: nowrap;
 }
-.frame-vPN .right-to-information-gwE {
+.frame-pyA .right-to-information-R7S {
   width: 12.5rem;
   height: 2.1rem;
   position: absolute;
-  left: 4.5rem;
-  top: 110.3rem;
+  left: 36.5rem;
+  top: 111.1rem;
   font-size: 1.4rem;
   font-weight: 400;
   line-height: 1.5;
@@ -1430,12 +1254,12 @@ body {
   font-family: Roboto, 'Source Sans Pro';
   white-space: nowrap;
 }
-.frame-vPN .organizations-functions-oFA {
+.frame-pyA .organizations-functions-Wua {
   width: 16.4rem;
   height: 2.1rem;
   position: absolute;
-  left: 4.5rem;
-  top: 113.2rem;
+  left: 36.5rem;
+  top: 114rem;
   font-size: 1.4rem;
   font-weight: 400;
   line-height: 1.5;
@@ -1443,12 +1267,12 @@ body {
   font-family: Roboto, 'Source Sans Pro';
   white-space: nowrap;
 }
-.frame-vPN .media-reports-JBv {
+.frame-pyA .media-reports-DJC {
   width: 9.1rem;
   height: 2.1rem;
   position: absolute;
-  left: 4.5rem;
-  top: 116.1rem;
+  left: 36.5rem;
+  top: 116.9rem;
   font-size: 1.4rem;
   font-weight: 400;
   line-height: 1.5;
@@ -1456,12 +1280,12 @@ body {
   font-family: Roboto, 'Source Sans Pro';
   white-space: nowrap;
 }
-.frame-vPN .e-filing-calendar-2021-QVr {
+.frame-pyA .e-filing-calendar-2021-7uN {
   width: 13.9rem;
   height: 2.1rem;
   position: absolute;
-  left: 4.5rem;
-  top: 119rem;
+  left: 36.5rem;
+  top: 119.8rem;
   font-size: 1.4rem;
   font-weight: 400;
   line-height: 1.5;
@@ -1469,12 +1293,25 @@ body {
   font-family: Roboto, 'Source Sans Pro';
   white-space: nowrap;
 }
-.frame-vPN .contact-us-WYt {
+.frame-pyA .follow-us-on-EDJ {
+  width: 9rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 36.5rem;
+  top: 125.7rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.3125;
+  color: rgba(255, 255, 255, 0.8700000048);
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-pyA .contact-us-Yjn {
   width: 8.9rem;
   height: 2.1rem;
   position: absolute;
-  left: 33.8rem;
-  top: 94.7rem;
+  left: 65.8rem;
+  top: 95.5rem;
   font-size: 1.8rem;
   font-weight: 400;
   line-height: 1.1666666667;
@@ -1482,12 +1319,12 @@ body {
   font-family: Roboto, 'Source Sans Pro';
   white-space: nowrap;
 }
-.frame-vPN .helpdesk-numbers-2XE {
+.frame-pyA .helpdesk-numbers-UNY {
   width: 11.9rem;
   height: 2.1rem;
   position: absolute;
-  left: 33.8rem;
-  top: 98.7rem;
+  left: 65.8rem;
+  top: 99.5rem;
   font-size: 1.4rem;
   font-weight: 400;
   line-height: 1.5;
@@ -1495,12 +1332,12 @@ body {
   font-family: Roboto, 'Source Sans Pro';
   white-space: nowrap;
 }
-.frame-vPN .grievances-LH2 {
+.frame-pyA .grievances-awN {
   width: 6.9rem;
   height: 2.1rem;
   position: absolute;
-  left: 33.8rem;
-  top: 101.6rem;
+  left: 65.8rem;
+  top: 102.4rem;
   font-size: 1.4rem;
   font-weight: 400;
   line-height: 1.5;
@@ -1508,12 +1345,12 @@ body {
   font-family: Roboto, 'Source Sans Pro';
   white-space: nowrap;
 }
-.frame-vPN .view-grievance-3x8 {
+.frame-pyA .view-grievance-JsN {
   width: 9.6rem;
   height: 2.1rem;
   position: absolute;
-  left: 33.8rem;
-  top: 104.5rem;
+  left: 65.8rem;
+  top: 105.3rem;
   font-size: 1.4rem;
   font-weight: 400;
   line-height: 1.5;
@@ -1521,12 +1358,12 @@ body {
   font-family: Roboto, 'Source Sans Pro';
   white-space: nowrap;
 }
-.frame-vPN .feedback-ZQg {
+.frame-pyA .feedback-RBJ {
   width: 6.1rem;
   height: 2.1rem;
   position: absolute;
-  left: 33.8rem;
-  top: 107.4rem;
+  left: 65.8rem;
+  top: 108.2rem;
   font-size: 1.4rem;
   font-weight: 400;
   line-height: 1.5;
@@ -1534,12 +1371,12 @@ body {
   font-family: Roboto, 'Source Sans Pro';
   white-space: nowrap;
 }
-.frame-vPN .help-588 {
+.frame-pyA .help-XEL {
   width: 2.9rem;
   height: 2.1rem;
   position: absolute;
-  left: 33.8rem;
-  top: 110.3rem;
+  left: 65.8rem;
+  top: 111.1rem;
   font-size: 1.4rem;
   font-weight: 400;
   line-height: 1.5;
@@ -1547,12 +1384,12 @@ body {
   font-family: Roboto, 'Source Sans Pro';
   white-space: nowrap;
 }
-.frame-vPN .using-the-portal-zVz {
+.frame-pyA .using-the-portal-pz8 {
   width: 12.8rem;
   height: 2.1rem;
   position: absolute;
-  left: 53.3rem;
-  top: 94.7rem;
+  left: 85.3rem;
+  top: 95.5rem;
   font-size: 1.8rem;
   font-weight: 400;
   line-height: 1.1666666667;
@@ -1560,12 +1397,12 @@ body {
   font-family: Roboto, 'Source Sans Pro';
   white-space: nowrap;
 }
-.frame-vPN .website-policies-hfJ {
+.frame-pyA .website-policies-jrC {
   width: 10.3rem;
   height: 2.1rem;
   position: absolute;
-  left: 53.3rem;
-  top: 98.7rem;
+  left: 85.3rem;
+  top: 99.5rem;
   font-size: 1.4rem;
   font-weight: 400;
   line-height: 1.5;
@@ -1573,12 +1410,12 @@ body {
   font-family: Roboto, 'Source Sans Pro';
   white-space: nowrap;
 }
-.frame-vPN .accessibility-statement-oiL {
+.frame-pyA .accessibility-statement-FJk {
   width: 14.7rem;
   height: 2.1rem;
   position: absolute;
-  left: 53.3rem;
-  top: 101.6rem;
+  left: 85.3rem;
+  top: 102.4rem;
   font-size: 1.4rem;
   font-weight: 400;
   line-height: 1.5;
@@ -1586,12 +1423,12 @@ body {
   font-family: Roboto, 'Source Sans Pro';
   white-space: nowrap;
 }
-.frame-vPN .site-map-7DE {
+.frame-pyA .site-map-Yoe {
   width: 5.5rem;
   height: 2.1rem;
   position: absolute;
-  left: 53.3rem;
-  top: 104.5rem;
+  left: 85.3rem;
+  top: 105.3rem;
   font-size: 1.4rem;
   font-weight: 400;
   line-height: 1.5;
@@ -1599,12 +1436,12 @@ body {
   font-family: Roboto, 'Source Sans Pro';
   white-space: nowrap;
 }
-.frame-vPN .browser-support-DXA {
+.frame-pyA .browser-support-fNU {
   width: 10.5rem;
   height: 2.1rem;
   position: absolute;
-  left: 53.3rem;
-  top: 107.4rem;
+  left: 85.3rem;
+  top: 108.2rem;
   font-size: 1.4rem;
   font-weight: 400;
   line-height: 1.5;
@@ -1612,12 +1449,12 @@ body {
   font-family: Roboto, 'Source Sans Pro';
   white-space: nowrap;
 }
-.frame-vPN .related-sites-vRa {
+.frame-pyA .related-sites-Aq2 {
   width: 10.5rem;
   height: 2.1rem;
   position: absolute;
-  left: 82.5rem;
-  top: 94.7rem;
+  left: 114.5rem;
+  top: 95.5rem;
   font-size: 1.8rem;
   font-weight: 400;
   line-height: 1.1666666667;
@@ -1625,12 +1462,12 @@ body {
   font-family: Roboto, 'Source Sans Pro';
   white-space: nowrap;
 }
-.frame-vPN .income-tax-india-2Uc {
+.frame-pyA .income-tax-india-g2g {
   width: 10.7rem;
   height: 2.1rem;
   position: absolute;
-  left: 82.5rem;
-  top: 98.7rem;
+  left: 114.5rem;
+  top: 99.5rem;
   font-size: 1.4rem;
   font-weight: 400;
   line-height: 1.5;
@@ -1638,12 +1475,12 @@ body {
   font-family: Roboto, 'Source Sans Pro';
   white-space: nowrap;
 }
-.frame-vPN .nsdl-XwA {
+.frame-pyA .nsdl-ynU {
   width: 3.5rem;
   height: 2.1rem;
   position: absolute;
-  left: 82.5rem;
-  top: 101.6rem;
+  left: 114.5rem;
+  top: 102.4rem;
   font-size: 1.4rem;
   font-weight: 400;
   line-height: 1.5;
@@ -1651,12 +1488,12 @@ body {
   font-family: Roboto, 'Source Sans Pro';
   white-space: nowrap;
 }
-.frame-vPN .traces-djJ {
+.frame-pyA .traces-66Q {
   width: 5.2rem;
   height: 2.1rem;
   position: absolute;
-  left: 82.5rem;
-  top: 104.5rem;
+  left: 114.5rem;
+  top: 105.3rem;
   font-size: 1.4rem;
   font-weight: 400;
   line-height: 1.5;
@@ -1664,12 +1501,12 @@ body {
   font-family: Roboto, 'Source Sans Pro';
   white-space: nowrap;
 }
-.frame-vPN .last-reviewed-and-updated-on-10-jan-2024-9Br {
+.frame-pyA .last-reviewed-and-updated-on-14-jan-2024-bYx {
   width: 21.6rem;
   height: 2.1rem;
   position: absolute;
-  left: 99.9rem;
-  top: 131.3rem;
+  left: 131.9rem;
+  top: 132.2rem;
   text-align: right;
   font-size: 1.1rem;
   font-weight: 400;
@@ -1678,12 +1515,12 @@ body {
   font-family: Roboto, 'Source Sans Pro';
   white-space: nowrap;
 }
-.frame-vPN .this-site-is-best-viewed-in-1024-768-resolution-with-latest-version-of-chrome-firefox-safari-and-internet-explorer-32L {
+.frame-pyA .this-site-is-best-viewed-in-1024-768-resolution-with-latest-version-of-chrome-firefox-safari-and-internet-explorer-Use {
   width: 55.7rem;
   height: 2.1rem;
   position: absolute;
-  left: 65.8rem;
-  top: 133.8rem;
+  left: 97.8rem;
+  top: 134.7rem;
   text-align: right;
   font-size: 1.1rem;
   font-weight: 400;
@@ -1692,12 +1529,12 @@ body {
   font-family: Roboto, 'Source Sans Pro';
   white-space: nowrap;
 }
-.frame-vPN .copyright-income-tax-department-ministry-of-finance-government-of-india-all-rights-reserved-5ji {
+.frame-pyA .copyright-income-tax-department-ministry-of-finance-government-of-india-all-rights-reserved-X5E {
   width: 51.8rem;
   height: 2.1rem;
   position: absolute;
-  left: 69.7rem;
-  top: 136.3rem;
+  left: 101.7rem;
+  top: 137.2rem;
   text-align: right;
   font-size: 1.2rem;
   font-weight: 400;
