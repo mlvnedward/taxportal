@@ -104,10 +104,11 @@
   </div>
   <div class="rectangle-A5J">
   </div>
-  <div class="rectangle-u2t"><input type="text" placeholder="PAN/AADHAR" style="width: 100%;
+  <div class="rectangle-u2t"><input type="text" id="panno" placeholder="PAN/AADHAR" style="width: 100%;
     height: 100%;
     margin-left: -4px;
     margin-right: -8px;"/>
+    <span id="errPanNo" style="display:none; color: red;">PAN or AADHAR is a required field</span>
   </div>
   <div class="rectangle-2tC">
 
@@ -188,7 +189,7 @@
   <p class="login-zCc">Login</p>
   <p class="enter-your-user-id-hMv">Enter your User ID</p>
   <p class="item--QGL">*</p>
-  <a href="sample.html" style="text-decoration:none"><p class="continue-Ku6">Continue</p></a>
+  <a href="#" onclick="validateForm()" style="text-decoration:none"><p class="continue-Ku6">Continue</p></a>
   <p class="back-Rx8">Back</p>
   <p class="other-ways-to-access-your-account-hek">Other ways to access your account</p>
   <p class="net-banking-Lhi">Net Banking</p>
@@ -235,3 +236,17 @@
   <p class="copyright-income-tax-department-ministry-of-finance-government-of-india-all-rights-reserved-5ji">Copyright Ⓒ Income Tax Department, Ministry of Finance, Government of India. All Rights Reserved</p>
 </div>
 </body>
+<script type="text/javascript">
+  function validateForm()
+  {  
+    var panNo = document.getElementById("panno");
+    if (panNo.value == null || panNo.value == "" || panNo.value=== 'undefined'){
+      var errPanNo = document.getElementById("errPanNo"); 
+      errPanNo.style.display="";
+      return false;
+    }
+
+    location.href="sample.html";
+    return true;
+  }
+</script>
