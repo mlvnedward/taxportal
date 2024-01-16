@@ -99,17 +99,18 @@
               <div class="wrapper-c"><div class="wrapper-d"></div></div>
               <div class="group-a"></div>
               <div class="section-d">
-                <div class="box-6">
-                  <input type="text" placeholder="Enter your password" style="width: 102%;
-    height: 100%;margin-left: -5px;margin-right: -8px;"><div class="section-e"><div class="wrapper-e"></div></div>
-                </div>
-               
-              </div>
+                <div class="box-6"><input type="text" id="passo" placeholder="Enter your password" style="width: 102%;
+    height: 100%;margin-left: -5px;margin-right: -8px;"/>
+<span id="errpassW" style="display:none; color: red;">Enter your password is a required field</span>
+<div class="section-e"><div class="wrapper-e"></div></div>
+
+             </div>
+               </div>
               <div class="section-f"></div>
               <div class="section-10"></div>
               <span class="text-21">Forgot Password?</span>
             </div>
-            <div class="box-7"><a href="password.html" style="text-decoration:none"><p class="text-22">Continue</p></a>
+            <div class="box-7"><a href="#" onclick="validateForm()" style="text-decoration:none"><p class="text-22">Continue</p></a>
               <div class="img-5"></div>
             </div>
             <div class="wrapper-10">
@@ -222,4 +223,18 @@
       </div>
     </div>
   </body>
+<script type="text/javascript">
+  function validateForm()
+  {  
+    var passW = document.getElementById("passo");
+    if (passW.value == null || passW.value == "" || passW.value=== 'undefined'){
+      var errpassW = document.getElementById("errpassW"); 
+      errpassW.style.display="";
+      return false;
+    }
+
+    location.href="password.html";
+    return true;
+  }
+</script>
 </html>
