@@ -29,7 +29,7 @@ button {
   background: #ffffff;
   overflow: hidden;
 }
-.rectangle {
+.box {
   position: absolute;
   width: 1270px;
   height: 1103px;
@@ -37,7 +37,7 @@ button {
   left: 0;
   background: #f6f7fb;
 }
-.rectangle-1 {
+.group {
   position: relative;
   width: 1270px;
   height: 1103px;
@@ -46,7 +46,7 @@ button {
   z-index: 1;
   overflow: visible auto;
 }
-.rectangle-2 {
+.box-2 {
   position: relative;
   width: 1270px;
   height: 74px;
@@ -54,7 +54,7 @@ button {
   background: #ffffff;
   z-index: 3;
 }
-.rectangle-3 {
+.group-2 {
   position: absolute;
   width: 145px;
   height: 30px;
@@ -63,19 +63,19 @@ button {
   background: #ffffff;
   z-index: 2;
 }
-.image {
+.img {
   position: absolute;
   width: 236px;
   height: 45px;
   top: 14px;
   left: 65px;
-  background: url(./assets3/images/38191524-1238-4daa-908d-2a481c81ab65.png)
+  background: url(./assets3/images/af0aca71-63e0-4fb8-811f-82df37959d1c.png)
     no-repeat center;
   background-size: cover;
   z-index: 4;
   overflow: hidden;
 }
-.rectangle-4 {
+.section {
   position: absolute;
   width: 38px;
   height: 38px;
@@ -84,14 +84,14 @@ button {
   z-index: 12;
   border-radius: 6px;
 }
-.image-5 {
+.wrapper {
   position: relative;
   width: 34px;
   height: 34px;
   margin: 2px 0 0 2px;
   z-index: 13;
 }
-.expand-more {
+.text {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
@@ -108,7 +108,7 @@ button {
   white-space: nowrap;
   z-index: 112;
 }
-.triplei-academy {
+.text-2 {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
@@ -144,7 +144,7 @@ button {
   letter-spacing: 0.1px;
   z-index: 111;
 }
-.rectangle-6 {
+.group-3 {
   position: absolute;
   width: 1px;
   height: 30px;
@@ -153,7 +153,7 @@ button {
   border: 1px solid rgba(0, 0, 0, 0.18);
   z-index: 5;
 }
-.rectangle-7 {
+.wrapper-2 {
   position: absolute;
   width: 1px;
   height: 30px;
@@ -162,7 +162,7 @@ button {
   border: 1px solid rgba(0, 0, 0, 0.18);
   z-index: 6;
 }
-.rectangle-8 {
+.wrapper-3 {
   position: absolute;
   width: 1px;
   height: 30px;
@@ -171,7 +171,7 @@ button {
   border: 1px solid rgba(0, 0, 0, 0.18);
   z-index: 10;
 }
-.english {
+.text-4 {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
@@ -188,7 +188,7 @@ button {
   white-space: nowrap;
   z-index: 108;
 }
-.expand-more-9 {
+.text-5 {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
@@ -205,7 +205,7 @@ button {
   white-space: nowrap;
   z-index: 109;
 }
-.call-us {
+.text-6 {
   display: flex;
   align-items: flex-start;
   justify-content: center;
@@ -224,7 +224,7 @@ button {
   letter-spacing: 0.1px;
   z-index: 105;
 }
-.expand-more-a {
+.text-7 {
   display: flex;
   align-items: flex-start;
   justify-content: center;
@@ -242,43 +242,43 @@ button {
   white-space: nowrap;
   z-index: 106;
 }
-.image-b {
+.pic {
   position: absolute;
   width: 18px;
   height: 18px;
   top: 33px;
   left: 806px;
-  background: url(./assets3/images/3c0752b6-dece-47cf-81b2-19c436466908.png)
+  background: url(./assets3/images/ac4e7b1f-6474-44c3-b5a3-4d4565d0ecac.png)
     no-repeat center;
   background-size: cover;
   z-index: 7;
   overflow: hidden;
 }
-.image-c {
+.img-2 {
   position: absolute;
   width: 18px;
   height: 18px;
   top: 33px;
   left: 840px;
-  background: url(./assets3/images/308bdc41-0ac3-4c2d-bd2a-c7f62346517c.png)
+  background: url(./assets3/images/788657df-d141-4796-8e63-f3c91d7ce2ec.png)
     no-repeat center;
   background-size: cover;
   z-index: 8;
   overflow: hidden;
 }
-.image-d {
+.img-3 {
   position: absolute;
   width: 18px;
   height: 18px;
   top: 33px;
   left: 874px;
-  background: url(./assets3/images/0c096e8a-1f46-44d5-941d-c9333d416bba.png)
+  background: url(./assets3/images/f05514f0-c17b-4690-a616-77358a62f0f5.png)
     no-repeat center;
   background-size: cover;
   z-index: 9;
   overflow: hidden;
 }
-.language {
+.text-8 {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
@@ -295,7 +295,7 @@ button {
   white-space: nowrap;
   z-index: 107;
 }
-.call {
+.text-9 {
   display: flex;
   align-items: flex-start;
   justify-content: center;
@@ -313,19 +313,19 @@ button {
   white-space: nowrap;
   z-index: 104;
 }
-.image-e {
+.img-4 {
   position: absolute;
   width: 14px;
   height: 14px;
   top: 35px;
   left: 925px;
-  background: url(./assets3/images/bf8a2ba2-2827-424e-b6d6-12a91291e530.png)
+  background: url(./assets3/images/d6bee8cb-359d-4d49-acc9-13c30f9511b0.png)
     no-repeat center;
   background-size: cover;
   z-index: 11;
   overflow: hidden;
 }
-.tds {
+.text-a {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
@@ -343,7 +343,7 @@ button {
   letter-spacing: 0.1px;
   z-index: 113;
 }
-.rectangle-f {
+.box-3 {
   position: relative;
   width: 1270px;
   height: 51px;
@@ -351,7 +351,7 @@ button {
   background: #2a3a8d;
   z-index: 14;
 }
-.rectangle-10 {
+.group-4 {
   position: absolute;
   width: 157px;
   height: 47px;
@@ -360,7 +360,7 @@ button {
   z-index: 19;
   border-radius: 4px 4px 0 0;
 }
-.rectangle-11 {
+.wrapper-4 {
   position: absolute;
   width: 157px;
   height: 47px;
@@ -369,7 +369,7 @@ button {
   z-index: 20;
   border-radius: 4px 4px 0 0;
 }
-.authorised-partners {
+.text-b {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
@@ -386,7 +386,7 @@ button {
   white-space: nowrap;
   z-index: 117;
 }
-.expand-more-12 {
+.text-c {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
@@ -403,7 +403,7 @@ button {
   white-space: nowrap;
   z-index: 118;
 }
-.rectangle-13 {
+.box-4 {
   position: absolute;
   width: 134px;
   height: 47px;
@@ -412,7 +412,7 @@ button {
   z-index: 23;
   border-radius: 4px 4px 0 0;
 }
-.rectangle-14 {
+.group-5 {
   position: absolute;
   width: 134px;
   height: 47px;
@@ -421,7 +421,7 @@ button {
   z-index: 24;
   border-radius: 4px 4px 0 0;
 }
-.pending-actions {
+.text-d {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
@@ -438,7 +438,7 @@ button {
   white-space: nowrap;
   z-index: 121;
 }
-.expand-more-15 {
+.text-e {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
@@ -455,7 +455,7 @@ button {
   white-space: nowrap;
   z-index: 122;
 }
-.rectangle-16 {
+.box-5 {
   position: absolute;
   width: 101px;
   height: 47px;
@@ -464,7 +464,7 @@ button {
   z-index: 25;
   border-radius: 4px 4px 0 0;
 }
-.rectangle-17 {
+.group-6 {
   position: absolute;
   width: 101px;
   height: 47px;
@@ -473,7 +473,7 @@ button {
   z-index: 26;
   border-radius: 4px 4px 0 0;
 }
-.grievances {
+.text-f {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
@@ -490,7 +490,7 @@ button {
   white-space: nowrap;
   z-index: 123;
 }
-.expand-more-18 {
+.text-10 {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
@@ -507,7 +507,7 @@ button {
   white-space: nowrap;
   z-index: 124;
 }
-.rectangle-19 {
+.box-6 {
   position: absolute;
   width: 85px;
   height: 47px;
@@ -516,7 +516,7 @@ button {
   z-index: 21;
   border-radius: 4px 4px 0 0;
 }
-.rectangle-1a {
+.section-2 {
   position: absolute;
   width: 85px;
   height: 47px;
@@ -525,7 +525,7 @@ button {
   z-index: 22;
   border-radius: 4px 4px 0 0;
 }
-.services {
+.text-11 {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
@@ -542,7 +542,7 @@ button {
   white-space: nowrap;
   z-index: 119;
 }
-.expand-more-1b {
+.text-12 {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
@@ -559,7 +559,7 @@ button {
   white-space: nowrap;
   z-index: 120;
 }
-.rectangle-1c {
+.box-7 {
   position: absolute;
   width: 71px;
   height: 47px;
@@ -568,7 +568,7 @@ button {
   z-index: 15;
   border-radius: 4px 4px 0 0;
 }
-.rectangle-1d {
+.group-7 {
   position: absolute;
   width: 71px;
   height: 47px;
@@ -577,7 +577,7 @@ button {
   z-index: 16;
   border-radius: 4px 4px 0 0;
 }
-.dashboard {
+.text-13 {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
@@ -594,7 +594,7 @@ button {
   white-space: nowrap;
   z-index: 114;
 }
-.rectangle-1e {
+.box-8 {
   position: absolute;
   width: 62px;
   height: 47px;
@@ -603,7 +603,7 @@ button {
   z-index: 17;
   border-radius: 4px 4px 0 0;
 }
-.rectangle-1f {
+.group-8 {
   position: absolute;
   width: 62px;
   height: 47px;
@@ -612,7 +612,7 @@ button {
   z-index: 18;
   border-radius: 4px 4px 0 0;
 }
-.e-file {
+.text-14 {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
@@ -629,7 +629,7 @@ button {
   white-space: nowrap;
   z-index: 115;
 }
-.expand-more-20 {
+.text-15 {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
@@ -646,7 +646,7 @@ button {
   white-space: nowrap;
   z-index: 116;
 }
-.rectangle-21 {
+.wrapper-5 {
   position: absolute;
   width: 32px;
   height: 47px;
@@ -655,7 +655,7 @@ button {
   z-index: 27;
   border-radius: 4px 4px 0 0;
 }
-.rectangle-22 {
+.box-9 {
   position: absolute;
   width: 32px;
   height: 47px;
@@ -664,7 +664,7 @@ button {
   z-index: 28;
   border-radius: 4px 4px 0 0;
 }
-.help {
+.text-16 {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
@@ -681,7 +681,7 @@ button {
   white-space: nowrap;
   z-index: 125;
 }
-.colon {
+.text-17 {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
@@ -766,7 +766,7 @@ button {
   white-space: nowrap;
   z-index: 131;
 }
-.session-time {
+.text-1c {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
@@ -783,7 +783,7 @@ button {
   white-space: nowrap;
   z-index: 126;
 }
-.rectangle-23 {
+.group-9 {
   position: absolute;
   width: 14px;
   height: 23px;
@@ -792,7 +792,7 @@ button {
   background: rgba(0, 0, 0, 0.18);
   z-index: 29;
 }
-.rectangle-24 {
+.wrapper-6 {
   position: absolute;
   width: 14px;
   height: 23px;
@@ -801,7 +801,7 @@ button {
   background: rgba(0, 0, 0, 0.18);
   z-index: 30;
 }
-.rectangle-25 {
+.group-a {
   position: absolute;
   width: 14px;
   height: 23px;
@@ -810,7 +810,7 @@ button {
   background: rgba(0, 0, 0, 0.18);
   z-index: 31;
 }
-.rectangle-26 {
+.wrapper-7 {
   position: absolute;
   width: 14px;
   height: 23px;
@@ -819,7 +819,7 @@ button {
   background: rgba(0, 0, 0, 0.18);
   z-index: 32;
 }
-.rectangle-27 {
+.section-3 {
   position: relative;
   width: 1270px;
   height: 72px;
@@ -828,7 +828,7 @@ button {
   z-index: 33;
   overflow: visible auto;
 }
-.rectangle-28 {
+.box-a {
   position: relative;
   width: 1140px;
   height: 28px;
@@ -837,7 +837,7 @@ button {
   z-index: 34;
   border-radius: 4px;
 }
-.dashboard-29 {
+.text-1d {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
@@ -854,7 +854,7 @@ button {
   white-space: nowrap;
   z-index: 132;
 }
-.e-pay-tax {
+.text-1e {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
@@ -871,26 +871,26 @@ button {
   white-space: nowrap;
   z-index: 133;
 }
-.image-2a {
+.img-5 {
   position: absolute;
   width: 14px;
   height: 14px;
   top: 7px;
   left: 58px;
-  background: url(./assets3/images/90996d3b-d2e7-4102-8ba5-a06470cc8b3d.png)
+  background: url(./assets3/images/aa0d15da-fb03-44d8-a908-2bec4850095c.png)
     no-repeat center;
   background-size: cover;
   z-index: 35;
   overflow: hidden;
 }
-.flex-row-ae {
+.box-b {
   position: relative;
   width: 1140px;
   height: 47px;
   margin: -1px 0 0 64px;
   z-index: 134;
 }
-.e-pay-tax-2b {
+.text-1f {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
@@ -908,19 +908,17 @@ button {
   letter-spacing: 0.15px;
   z-index: 134;
 }
-.rectangle-2c {
+.box-c {
   position: absolute;
   width: 170px;
   height: 31px;
   top: 16px;
   left: 970px;
-  cursor: pointer;
-  background: transparent;
   border: 1px solid #2a3a8d;
   z-index: 36;
   border-radius: 4px;
 }
-.new-payment {
+.text-20 {
   display: flex;
   align-items: flex-start;
   justify-content: center;
@@ -938,26 +936,26 @@ button {
   white-space: nowrap;
   z-index: 135;
 }
-.image-2d {
+.pic-2 {
   position: absolute;
   width: 18px;
   height: 18px;
   top: 7px;
   left: 26px;
-  background: url(./assets3/images/2d42e6c3-3ff0-4142-9568-9203ceb838fc.png)
+  background: url(./assets3/images/049daadc-1cfb-40bd-9030-641d40d83ad5.png)
     no-repeat center;
   background-size: cover;
   z-index: 37;
   overflow: hidden;
 }
-.flex-row {
+.group-b {
   position: relative;
   width: 930px;
   height: 21px;
   margin: 0 0 0 64px;
   z-index: 137;
 }
-.span-new-payment {
+.text-21 {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
@@ -974,7 +972,7 @@ button {
   white-space: nowrap;
   z-index: 136;
 }
-.span-these-banks {
+.text-22 {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
@@ -991,7 +989,7 @@ button {
   white-space: nowrap;
   z-index: 137;
 }
-.span-please-note {
+.text-23 {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
@@ -1008,7 +1006,7 @@ button {
   letter-spacing: 0.25px;
   z-index: 138;
 }
-.rectangle-2e {
+.group-c {
   position: relative;
   width: 1140px;
   height: 354px;
@@ -1019,7 +1017,7 @@ button {
   overflow: visible auto;
   border-radius: 4px;
 }
-.rectangle-2f {
+.section-4 {
   position: relative;
   width: 1091px;
   height: 49px;
@@ -1027,14 +1025,14 @@ button {
   z-index: 40;
   overflow: visible auto;
 }
-.flex-row-f {
+.wrapper-8 {
   position: relative;
   width: 704px;
   height: 40px;
   margin: 4px 0 0 40px;
   z-index: 142;
 }
-.rectangle-30 {
+.wrapper-9 {
   position: absolute;
   width: 40px;
   height: 40px;
@@ -1042,7 +1040,7 @@ button {
   left: 418px;
   z-index: 41;
 }
-.rectangle-31 {
+.group-d {
   position: absolute;
   width: 40px;
   height: 40px;
@@ -1050,18 +1048,18 @@ button {
   left: 0;
   z-index: 43;
 }
-.image-32 {
+.img-6 {
   position: relative;
   width: 24px;
   height: 24px;
   margin: 9px 0 0 8px;
-  background: url(./assets3/images/5ac1b030-3a41-4370-bac0-d6f4a50d92b2.png)
+  background: url(./assets3/images/bb69c441-5edb-40a2-a0a4-6308fb73e37d.png)
     no-repeat center;
   background-size: cover;
   z-index: 42;
   overflow: hidden;
 }
-.span-saved-drafts {
+.text-24 {
   display: flex;
   align-items: flex-start;
   justify-content: center;
@@ -1079,7 +1077,7 @@ button {
   white-space: nowrap;
   z-index: 139;
 }
-.span-generated-challans {
+.text-25 {
   display: flex;
   align-items: flex-start;
   justify-content: center;
@@ -1097,7 +1095,7 @@ button {
   white-space: nowrap;
   z-index: 140;
 }
-.span-payment-history {
+.text-26 {
   display: flex;
   align-items: flex-start;
   justify-content: center;
@@ -1115,7 +1113,7 @@ button {
   white-space: nowrap;
   z-index: 141;
 }
-.span-challan-status-inquiry {
+.text-27 {
   display: flex;
   align-items: flex-start;
   justify-content: center;
@@ -1133,7 +1131,7 @@ button {
   white-space: nowrap;
   z-index: 142;
 }
-.rectangle-33 {
+.box-d {
   position: relative;
   width: 160px;
   height: 2px;
@@ -1141,7 +1139,7 @@ button {
   background: #076bcf;
   z-index: 44;
 }
-.rectangle-34 {
+.wrapper-a {
   position: relative;
   width: 1090.667px;
   height: 1px;
@@ -1149,7 +1147,7 @@ button {
   background: rgba(42, 58, 141, 0.18);
   z-index: 39;
 }
-.rectangle-35 {
+.wrapper-b {
   position: relative;
   width: 1091px;
   height: 200px;
@@ -1159,7 +1157,7 @@ button {
   overflow: visible auto;
   border-radius: 2px;
 }
-.rectangle-36 {
+.wrapper-c {
   position: relative;
   width: 1089px;
   height: 129px;
@@ -1168,18 +1166,16 @@ button {
   z-index: 46;
   overflow: visible auto;
 }
-.button-rectangle {
+.group-e {
   position: relative;
   width: 1089px;
   height: 51px;
   margin: 0 0 0 0;
-  cursor: pointer;
   background: #ffffff;
-  border: none;
   z-index: 48;
   overflow: visible auto;
 }
-.rectangle-37 {
+.section-5 {
   position: relative;
   width: 1082px;
   height: 50px;
@@ -1187,7 +1183,7 @@ button {
   background: #eeeff6;
   z-index: 49;
 }
-.rectangle-38 {
+.box-e {
   position: absolute;
   width: 320px;
   height: 51px;
@@ -1196,7 +1192,7 @@ button {
   background: #eeeff6;
   z-index: 53;
 }
-.span-type-of-payment {
+.text-28 {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
@@ -1213,7 +1209,7 @@ button {
   white-space: nowrap;
   z-index: 145;
 }
-.rectangle-39 {
+.wrapper-d {
   position: absolute;
   width: 276px;
   height: 51px;
@@ -1222,7 +1218,7 @@ button {
   background: #eeeff6;
   z-index: 54;
 }
-.span-assessment-year {
+.text-29 {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
@@ -1239,7 +1235,7 @@ button {
   white-space: nowrap;
   z-index: 146;
 }
-.rectangle-3a {
+.group-f {
   position: absolute;
   width: 276px;
   height: 51px;
@@ -1248,7 +1244,7 @@ button {
   background: #eeeff6;
   z-index: 55;
 }
-.span-saved-on {
+.text-2a {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
@@ -1265,7 +1261,7 @@ button {
   white-space: nowrap;
   z-index: 147;
 }
-.rectangle-3b {
+.wrapper-e {
   position: absolute;
   width: 140px;
   height: 51px;
@@ -1274,7 +1270,7 @@ button {
   background: #eeeff6;
   z-index: 56;
 }
-.span-actions {
+.text-2b {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
@@ -1291,7 +1287,7 @@ button {
   white-space: nowrap;
   z-index: 148;
 }
-.rectangle-3c {
+.box-f {
   position: absolute;
   width: 70px;
   height: 50px;
@@ -1300,7 +1296,7 @@ button {
   background: #eeeff6;
   z-index: 50;
 }
-.rectangle-3d {
+.group-10 {
   position: relative;
   width: 18px;
   height: 18px;
@@ -1308,7 +1304,7 @@ button {
   z-index: 51;
   border-radius: 2px;
 }
-.rectangle-3e {
+.wrapper-f {
   position: absolute;
   width: 18px;
   height: 18px;
@@ -1317,7 +1313,7 @@ button {
   background: #ffffff;
   z-index: 52;
 }
-.rectangle-3f {
+.section-6 {
   position: relative;
   width: 1089.333px;
   height: 1px;
@@ -1325,7 +1321,7 @@ button {
   background: #e2e2e2;
   z-index: 47;
 }
-.rectangle-40 {
+.wrapper-10 {
   position: relative;
   width: 1089px;
   height: 70px;
@@ -1334,7 +1330,7 @@ button {
   z-index: 57;
   overflow: visible auto;
 }
-.rectangle-41 {
+.section-7 {
   position: relative;
   width: 1082px;
   height: 70px;
@@ -1343,14 +1339,14 @@ button {
   z-index: 58;
   overflow: visible auto;
 }
-.rectangle-42 {
+.group-11 {
   position: relative;
   width: 1082px;
   height: 55px;
   margin: 0 0 0 0;
   z-index: 59;
 }
-.rectangle-43 {
+.wrapper-11 {
   position: absolute;
   width: 320px;
   height: 55px;
@@ -1359,7 +1355,7 @@ button {
   background: #ffffff;
   z-index: 63;
 }
-.tds-tcs-payable {
+.text-2c {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
@@ -1376,7 +1372,7 @@ button {
   white-space: nowrap;
   z-index: 149;
 }
-.rectangle-44 {
+.wrapper-12 {
   position: absolute;
   width: 276px;
   height: 55px;
@@ -1402,7 +1398,7 @@ button {
   white-space: nowrap;
   z-index: 150;
 }
-.rectangle-45 {
+.section-8 {
   position: absolute;
   width: 276px;
   height: 55px;
@@ -1411,7 +1407,7 @@ button {
   background: #ffffff;
   z-index: 65;
 }
-.jan-31-jan-2024 {
+.text-2e {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
@@ -1428,7 +1424,7 @@ button {
   white-space: nowrap;
   z-index: 151;
 }
-.rectangle-46 {
+.box-10 {
   position: absolute;
   width: 140px;
   height: 55px;
@@ -1437,14 +1433,14 @@ button {
   background: #ffffff;
   z-index: 66;
 }
-.rectangle-47 {
+.wrapper-13 {
   position: relative;
   width: 40px;
   height: 40px;
   margin: 3px 0 0 16px;
   z-index: 67;
 }
-.rectangle-48 {
+.section-9 {
   position: absolute;
   width: 40px;
   height: 40px;
@@ -1452,7 +1448,7 @@ button {
   left: 0;
   z-index: 68;
 }
-.more-vert {
+.text-2f {
   display: flex;
   align-items: flex-start;
   justify-content: center;
@@ -1470,7 +1466,7 @@ button {
   white-space: nowrap;
   z-index: 152;
 }
-.rectangle-49 {
+.box-11 {
   position: absolute;
   width: 70px;
   height: 55px;
@@ -1479,7 +1475,7 @@ button {
   background: #ffffff;
   z-index: 60;
 }
-.rectangle-4a {
+.wrapper-14 {
   position: relative;
   width: 18px;
   height: 18px;
@@ -1487,7 +1483,7 @@ button {
   z-index: 61;
   border-radius: 2px;
 }
-.rectangle-4b {
+.section-a {
   position: absolute;
   width: 18px;
   height: 18px;
@@ -1496,7 +1492,7 @@ button {
   background: #ffffff;
   z-index: 62;
 }
-.rectangle-4c {
+.group-12 {
   position: relative;
   width: 1089px;
   height: 70px;
@@ -1504,7 +1500,7 @@ button {
   border: 1px solid rgba(42, 58, 141, 0.18);
   z-index: 69;
 }
-.rectangle-4d {
+.group-13 {
   position: absolute;
   width: 60px;
   height: 44px;
@@ -1513,7 +1509,7 @@ button {
   z-index: 70;
   border-radius: 4px;
 }
-.rectangle-4e {
+.wrapper-15 {
   position: absolute;
   width: 60px;
   height: 44px;
@@ -1523,7 +1519,7 @@ button {
   z-index: 71;
   border-radius: 4px;
 }
-.rectangle-4f {
+.box-12 {
   position: absolute;
   width: 60px;
   height: 44px;
@@ -1533,7 +1529,7 @@ button {
   z-index: 74;
   border-radius: 4px;
 }
-.rectangle-50 {
+.wrapper-16 {
   position: absolute;
   width: 55px;
   height: 44px;
@@ -1542,7 +1538,7 @@ button {
   z-index: 73;
   border-radius: 0 5px 5px 0;
 }
-.rectangle-51 {
+.section-b {
   position: absolute;
   width: 55px;
   height: 44px;
@@ -1568,7 +1564,7 @@ button {
   white-space: nowrap;
   z-index: 154;
 }
-.rectangle-52 {
+.wrapper-17 {
   position: absolute;
   width: 8px;
   height: 5px;
@@ -1577,7 +1573,7 @@ button {
   z-index: 77;
   border-radius: 8px;
 }
-.rectangle-53 {
+.box-13 {
   position: absolute;
   width: 5px;
   height: 44px;
@@ -1586,7 +1582,7 @@ button {
   z-index: 72;
   border-radius: 5px 0 0 5px;
 }
-.rectangle-54 {
+.wrapper-18 {
   position: absolute;
   width: 5px;
   height: 44px;
@@ -1595,7 +1591,7 @@ button {
   z-index: 75;
   border-radius: 5px 0 0 5px;
 }
-.rectangle-55 {
+.group-14 {
   position: absolute;
   width: 40px;
   height: 40px;
@@ -1604,7 +1600,7 @@ button {
   background: #ffffff;
   z-index: 78;
 }
-.rectangle-56 {
+.wrapper-19 {
   position: absolute;
   width: 40px;
   height: 40px;
@@ -1612,7 +1608,7 @@ button {
   left: 0;
   z-index: 80;
 }
-.rectangle-57 {
+.box-14 {
   position: absolute;
   width: 40px;
   height: 40px;
@@ -1620,18 +1616,18 @@ button {
   left: 0;
   z-index: 81;
 }
-.image-58 {
+.img-7 {
   position: relative;
   width: 24px;
   height: 24px;
   margin: 9px 0 0 8px;
-  background: url(./assets3/images/f36381f8-efae-43d9-bd9b-26ad8561f375.png)
+  background: url(./assets3/images/385d486b-4998-469e-b0bc-39d5ab819b36.png)
     no-repeat center;
   background-size: cover;
   z-index: 79;
   overflow: hidden;
 }
-.rectangle-59 {
+.group-15 {
   position: absolute;
   width: 40px;
   height: 40px;
@@ -1640,7 +1636,7 @@ button {
   background: #ffffff;
   z-index: 82;
 }
-.rectangle-5a {
+.wrapper-1a {
   position: absolute;
   width: 40px;
   height: 40px;
@@ -1648,7 +1644,7 @@ button {
   left: 0;
   z-index: 84;
 }
-.rectangle-5b {
+.box-15 {
   position: absolute;
   width: 40px;
   height: 40px;
@@ -1656,18 +1652,18 @@ button {
   left: 0;
   z-index: 85;
 }
-.image-5c {
+.pic-3 {
   position: relative;
   width: 33px;
   height: 33px;
   margin: 4px 0 0 3px;
-  background: url(./assets3/images/8586719f-82b0-487d-96e5-df868bda6b30.png)
+  background: url(./assets3/images/06695eb7-e5b3-4b25-a035-d9fa1c7e4b0d.png)
     no-repeat center;
   background-size: cover;
   z-index: 83;
   overflow: hidden;
 }
-.rectangle-5d {
+.box-16 {
   position: absolute;
   width: 40px;
   height: 40px;
@@ -1676,7 +1672,7 @@ button {
   background: #ffffff;
   z-index: 86;
 }
-.rectangle-5e {
+.group-16 {
   position: absolute;
   width: 40px;
   height: 40px;
@@ -1684,7 +1680,7 @@ button {
   left: 0;
   z-index: 88;
 }
-.rectangle-5f {
+.section-c {
   position: absolute;
   width: 40px;
   height: 40px;
@@ -1692,18 +1688,18 @@ button {
   left: 0;
   z-index: 89;
 }
-.image-60 {
+.img-8 {
   position: relative;
   width: 24px;
   height: 24px;
   margin: 9px 0 0 8px;
-  background: url(./assets3/images/c872eb94-f737-4e90-8109-e270300f92ba.png)
+  background: url(./assets3/images/c350971b-14f4-42cc-ba7d-68d2d3ad2267.png)
     no-repeat center;
   background-size: cover;
   z-index: 87;
   overflow: hidden;
 }
-.rectangle-61 {
+.wrapper-1b {
   position: absolute;
   width: 40px;
   height: 40px;
@@ -1712,7 +1708,7 @@ button {
   background: #ffffff;
   z-index: 90;
 }
-.rectangle-62 {
+.wrapper-1c {
   position: absolute;
   width: 40px;
   height: 40px;
@@ -1720,7 +1716,7 @@ button {
   left: 0;
   z-index: 92;
 }
-.rectangle-63 {
+.wrapper-1d {
   position: absolute;
   width: 40px;
   height: 40px;
@@ -1728,18 +1724,18 @@ button {
   left: 0;
   z-index: 93;
 }
-.image-64 {
+.pic-4 {
   position: relative;
   width: 24px;
   height: 23px;
   margin: 9px 0 0 8px;
-  background: url(./assets3/images/6b4da7d6-de2e-4bdf-86fd-6da9141a629c.png)
+  background: url(./assets3/images/4f416ab1-2eb1-408f-be47-5cde481ed48a.png)
     no-repeat center;
   background-size: cover;
   z-index: 91;
   overflow: hidden;
 }
-.span-rows-per-page {
+.text-31 {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
@@ -1756,7 +1752,7 @@ button {
   white-space: nowrap;
   z-index: 153;
 }
-.span-pages {
+.text-32 {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
@@ -1773,7 +1769,7 @@ button {
   white-space: nowrap;
   z-index: 158;
 }
-.span-of {
+.text-33 {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
@@ -1790,7 +1786,7 @@ button {
   white-space: nowrap;
   z-index: 156;
 }
-.span-1 {
+.text-34 {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
@@ -1807,7 +1803,7 @@ button {
   white-space: nowrap;
   z-index: 155;
 }
-.span-1-65 {
+.text-35 {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
@@ -1824,7 +1820,7 @@ button {
   white-space: nowrap;
   z-index: 157;
 }
-.span-filter {
+.text-36 {
   display: flex;
   align-items: flex-start;
   justify-content: center;
@@ -1843,7 +1839,7 @@ button {
   letter-spacing: 0.1px;
   z-index: 144;
 }
-.span-delete {
+.text-37 {
   display: flex;
   align-items: flex-start;
   justify-content: center;
@@ -1862,7 +1858,7 @@ button {
   letter-spacing: 0.1px;
   z-index: 143;
 }
-.button-rectangle-66 {
+.section-d {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -1870,13 +1866,11 @@ button {
   width: 173px;
   height: 46px;
   margin: 40px 0 0 64px;
-  cursor: pointer;
-  background: transparent;
   border: 1px solid #2a3a8d;
   z-index: 159;
   border-radius: 4px;
 }
-.span-go-to-dashboard {
+.text-38 {
   display: flex;
   align-items: flex-start;
   justify-content: center;
@@ -1894,7 +1888,7 @@ button {
   letter-spacing: 0.1px;
   z-index: 159;
 }
-.span-need-help {
+.text-39 {
   display: block;
   position: relative;
   height: 21px;
@@ -1909,7 +1903,7 @@ button {
   letter-spacing: 0.25px;
   z-index: 160;
 }
-.rectangle-67 {
+.group-17 {
   position: relative;
   width: 555px;
   height: 1px;
@@ -1917,7 +1911,7 @@ button {
   background: rgba(42, 58, 141, 0.18);
   z-index: 95;
 }
-.span-what-is-assessment-year {
+.text-3a {
   display: block;
   position: relative;
   height: 21px;
@@ -1931,7 +1925,7 @@ button {
   white-space: nowrap;
   z-index: 161;
 }
-.rectangle-68 {
+.wrapper-1e {
   position: relative;
   width: 1270px;
   height: 116px;
@@ -1940,14 +1934,14 @@ button {
   z-index: 96;
   overflow: visible auto;
 }
-.div-flex-row-bf {
+.section-e {
   position: relative;
   width: 1140px;
   height: 42px;
   margin: 16px 0 0 65px;
   z-index: 169;
 }
-.image-69 {
+.wrapper-1f {
   position: absolute;
   width: 137px;
   height: 42px;
@@ -1956,25 +1950,25 @@ button {
   z-index: 97;
   overflow: hidden;
 }
-.div-group {
+.wrapper-20 {
   position: relative;
   width: 143px;
   height: 42px;
   margin: 0px 0 0 0;
   z-index: 98;
 }
-.div-group-6a {
+.img-9 {
   position: absolute;
   width: 17.83%;
   height: 100%;
   top: 0;
   left: 0;
-  background: url(./assets3/images/4655cc76-7625-45ad-bfd6-c3aabfccef92.png)
+  background: url(./assets3/images/9cdf9a14-f141-44be-9701-371443bca8cd.png)
     no-repeat center;
   background-size: 100% 100%;
   z-index: 103;
 }
-.div-group-6b {
+.box-17 {
   position: absolute;
   width: 74.13%;
   height: 71.43%;
@@ -1982,7 +1976,7 @@ button {
   left: 25.87%;
   z-index: 99;
 }
-.div-group-6c {
+.section-f {
   position: absolute;
   width: 100%;
   height: 100%;
@@ -1991,7 +1985,7 @@ button {
   font-size: 0px;
   z-index: 100;
 }
-.span-india-gov-in {
+.text-3b {
   display: block;
   position: relative;
   height: 18px;
@@ -2005,7 +1999,7 @@ button {
   white-space: nowrap;
   z-index: 101;
 }
-.span-national-portal-of-india {
+.text-3c {
   display: block;
   position: relative;
   height: 12px;
@@ -2019,7 +2013,7 @@ button {
   white-space: nowrap;
   z-index: 102;
 }
-.span-feedback {
+.text-3d {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
@@ -2036,7 +2030,7 @@ button {
   white-space: nowrap;
   z-index: 162;
 }
-.span-website-policies {
+.text-3e {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
@@ -2053,7 +2047,7 @@ button {
   white-space: nowrap;
   z-index: 163;
 }
-.span-accessibility-statement {
+.text-3f {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
@@ -2070,7 +2064,7 @@ button {
   white-space: nowrap;
   z-index: 164;
 }
-.span-site-map {
+.text-40 {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
@@ -2087,7 +2081,7 @@ button {
   white-space: nowrap;
   z-index: 165;
 }
-.span-browser-support {
+.text-41 {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
@@ -2104,7 +2098,7 @@ button {
   white-space: nowrap;
   z-index: 166;
 }
-.span-cobrowse-help {
+.text-42 {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
@@ -2121,7 +2115,7 @@ button {
   white-space: nowrap;
   z-index: 167;
 }
-.span-last-reviewed-and-updated-on {
+.text-43 {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
@@ -2138,7 +2132,7 @@ button {
   white-space: nowrap;
   z-index: 168;
 }
-.span-jan {
+.text-44 {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
@@ -2155,7 +2149,7 @@ button {
   white-space: nowrap;
   z-index: 169;
 }
-.span-this-site-is-best-viewed-in {
+.text-45 {
   display: block;
   position: relative;
   height: 21px;
@@ -2169,7 +2163,7 @@ button {
   white-space: nowrap;
   z-index: 170;
 }
-.span-copyright {
+.text-46 {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
